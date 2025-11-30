@@ -1,0 +1,23 @@
+CREATE TABLE spklu (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nama VARCHAR(255),
+    kota VARCHAR(255),
+    latitude DOUBLE,
+    longitude DOUBLE,
+    alamat TEXT,
+    tipe_charger_1 VARCHAR(255),
+    power_1_kw FLOAT,
+    tipe_charger_2 VARCHAR(255),
+    power_2_kw FLOAT,
+    tipe_charger_3 VARCHAR(255),
+    power_3_kw FLOAT,
+    tipe_charger_4 VARCHAR(255),
+    power_4_kw FLOAT,
+    tipe_charger_5 VARCHAR(255),
+    power_5_kw FLOAT,
+    tipe_charger_6 VARCHAR(255),
+    power_6_kw FLOAT,
+    tipe_charger_7 VARCHAR(255),
+    power_7_kw FLOAT,
+    created_at DATETIME
+);

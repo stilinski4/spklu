@@ -1,0 +1,24 @@
+[
+    {
+      "nama": "SPKLU PLN Bandung",
+      "alamat": "Jl. Soekarno-Hatta No. 100, Bandung",
+      "kota": "Bandung",
+      "lat": -6.933,
+      "lng": 107.606
+    },
+    {
+      "nama": "SPKLU PLN Jakarta",
+      "alamat": "Jl. MH Thamrin No.1, Jakarta Pusat",
+      "kota": "Jakarta",
+      "lat": -6.195,
+      "lng": 106.822
+    },
+    {
+      "nama": "SPKLU PLN Surabaya",
+      "alamat": "Jl. Pemuda No.2, Surabaya",
+      "kota": "Surabaya",
+      "lat": -7.258,
+      "lng": 112.751
+    }
+  ]
+  
