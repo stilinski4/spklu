@@ -42,6 +42,12 @@ function toNumberOrNull(v) {
     process.exit(1);
   }
 
+  // Debug env vars
+  console.log('IMPORT DB_HOST:', process.env.DB_HOST);
+  console.log('IMPORT DB_USER:', process.env.DB_USER);
+  console.log('IMPORT DB_PASSWORD:', process.env.DB_PASSWORD ? '***' : '(empty)');
+  console.log('IMPORT DB_NAME:', process.env.DB_NAME);
+
   const lines = fs.readFileSync(DATA_FILE, 'utf-8')
     .split(/\r?\n/)
     .filter(l => l.trim() !== '');
@@ -51,7 +57,7 @@ function toNumberOrNull(v) {
     host: process.env.DB_HOST || '127.0.0.1',
     port: process.env.DB_PORT || 3306,
     user: process.env.DB_USER || 'root',
-    password: process.env.DB_PASSWORD || '',
+    password: process.env.DB_PASSWORD === 'empty' ? '' : (process.env.DB_PASSWORD || ''),
     database: process.env.DB_NAME || 'spklu_db'
   });
 

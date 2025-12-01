@@ -1,487 +1,487 @@
 id	nama	kota	latitude	longitude	alamat	tipe_charger_1	power_1_kw	tipe_charger_2	power_2_kw	tipe_charger_3	power_3_kw	tipe_charger_4	power_4_kw	tipe_charger_5	power_5_kw	tipe_charger_6	power_6_kw	tipe_charger_7	power_7_kw	created_at
-	SPKLU Mobile Anyer	Anyar	-6.05525899	105.9139062	Jl. Raya Anyer-Sirih No.20, Anyar, Kec. Anyar, Kabupaten Serang, Banten 42166	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22											
-	SPKLU AMIBELE ATAMBUA	Atambua	-9.1044813	124.8903816	Jl. Cut Nya Dien, Berdao, Kec. Atambua Bar., Kabupaten Belu, Nusa Tenggara Tim.	CCS (Type 2)	50													
-	SPKLU PLN ULP BAGAN BATU	Bagan Batu	1.6964	100.4059	Jalan Sunan Gunung Jati	CCS (Type 2)	30													
-	SPKLU PLN ULP BAJAWA	Bajawa	-8.7880474	120.9712797	Bajawa, Ngada Regency, East Nusa Tenggara 86411	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN Ranting Balige	Balige	2.335574665	99.06253535	Jl. Dr. T.D. Pardede No.14	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	Dunia Barusa Banda ACEH (UFC)	Banda Aceh	5.541751638	95.3307284	Jl. DR. Mr. T. H Jl. Dr. Mr. Mohd Hasan No.8, Batoh, Kec. Lueng Bata, Kota Banda Aceh	CCS (Type 2)	150	CHAdeMO	150	Type 2 (Tethered Connector) 	22									
-	SPKLU KORDA LAMNO	Banda Aceh	5.092404675	95.37165164	Unnamed Road,, Bak Paoh, Jaya, Kabupaten Aceh Jaya, Aceh 23657	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN (Persero) ULP Teunom	Banda Aceh	4.444631974	95.81320404	Panton, Teunom, Aceh Jaya Regency, Aceh 23653	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN UIW ACEH	Banda Aceh	5.56234	95.33449	Beurawe, Kec. Kuta Alam, Kota Banda Aceh, Aceh	CCS (Type 2)	100	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22							
-	SPKLU PLN ULP CALANG	Banda Aceh	4.635916923	95.5823108	Bahagia, Krueng Sabee, Aceh Jaya Regency, Aceh 23655	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP JANTHO	Banda Aceh	5.301784824	95.59806797	dekat, Jantho Makmur, Kec. Kota Jantho, Kabupaten Aceh Besar, Aceh 23951	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP KUTACANE	Banda Aceh	3.480285901	97.81248746	Komplek PLN Kutacane, Jalan Guru Leman, Perapat Hulu, Kec. Babussalam, Kabupaten Aceh Tenggara, Aceh 24651	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP Kuala Simpang	Banda Aceh	4.394562456	98.07690553	 Medang Ara, Karang Baru, Aceh Tamiang Regency, Aceh 	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP PANTON LABU	Banda Aceh	5.115864016	97.45812278	Panton Labu City, Tanah Jambo Aye, North Aceh Regency	Type 2 (Tethered Connector) 	22													
-	El's Coffee Roastery	Bandar Lampung	-5.393891692	105.2885858	Kalibalau Kencana, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122	CCS (Type 2)	200	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22							
-	Novotel Lampung	Bandar Lampung	-5.440650947	105.2891222	Novotel Lampung (Starvo)	Type 2 (Tethered Connector) 	7													
-	Hyundai Cihampelas	Bandung	-6.9066505	107.6046494	Jl. Cihampelas No.6, Tamansari, Kec. Bandung Timur	Type 2 (Tethered Connector) 	7													
-	Hyundai Pasteur	Bandung	-6.8927049	107.5819782	Jl. Dr. Djunjunan No.165, Pajajaran, Kec. Cicendo	Type 2 (Tethered Connector) 	7													
-	Ikea Kota Baru Parahyangan	Bandung	-6.867366254	107.4663144	Jl Parahyangan No 9 Cipendeuy Padalarang	Type 2 (Socket Only)	22													
-	Rest Area KM 147A Cipularang	Bandung	-6.967814	107.681211	Rest Area KM 147A  Tol Cipularang, 	CCS (Type 2)	50													
-	Rest Area KM 149B	Bandung	-6.969083	107.703258	Rest Area KM 149B Tol Cipularang, 	CCS (Type 2)	50	CCS (Type 2)	25	CHAdeMO	50									
-	SPKLU Balai Kota Bandung	Bandung	-6.911711	107.609513	Jl. Wastukencana No,2 Babakan Ciamis	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25											
-	SPKLU Gedung Budaya Sabilulungan	Bandung	-7.020604248	107.5303089	Jl. Al-Fathu No.104, Pamekaran, Kec. Soreang, Kabupaten Bandung, Jawa Barat 40912	Type 2 (Tethered Connector) 	22													
-	SPKLU ONE STOP CHARGING ST SURAPATI	Bandung	-6.899050655	107.6210081	Jl. Surapati No.36, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40122	CCS (Type 2)	100	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22							
-	SPKLU PLN POSKO CIWIDEY	Bandung	-7.104377068	107.465925	Jl. Bhayangkara, Margamulya, Kec. Pasirjambu, Kabupaten Bandung, Jawa Barat 40972	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP BANDUNG TIMUR	Bandung	-6.899360151	107.6412275	Jl. Khp Hasan Mustopa No.45, Neglasari, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40124	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22											
-	SPKLU UID Jawa Barat	Bandung	-6.9209934	107.6084364	Jl. Asia Afrika No.63, Braga, Kec. Sumur Bandung	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Bandung Barat	Bandung	-6.9086507	107.5789747	Jl. LMU.Nurtanio No.117, Dungus Cariang, Kec. Andir	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Bandung Utara	Bandung	-6.8790718	107.5973165	PLN ULP Bandung Utara 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	30	CHAdeMO	30	CCS (Type 1)	22	CCS (Type 2)	60	CHAdeMO	60			
-	SPKLU ULP Braga Heritage	Bandung	-6.9201702	107.6098575	PLN ULP Braga Heritage 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200											
-	SPKLU ULP Cililin	Bandung	-6.9479249	107.4670457	JL. Karang Tanjung, No. 1, Cililin, Cimahi, West Java, Singajaya, Cihampelas	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Kopo	Bandung	-6.9338784	107.5714327	Jl. Holis No.312, Caringin, Kec. Bandung Barat	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Lembang	Bandung	-6.818327	107.622015	Jl. Cijeruk, Lembang, Kec. Lembang	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Padalarang	Bandung	-6.8387967	107.4875331	Jl. Raya Purwakarta, Kertamulya, Kec. Padalarang	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Rajamandala	Bandung	-6.8331656	107.346814	Jl. Raya Rajamandala No.45, Mandalawangi, Kec. Cipatat	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Bandung	Bandung	-6.9489258	107.6117885	PLN UP3 Bandung 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	200							
-	Spklu PLN BYD Arista	Bandung	-6.9386398	107.6759178	Jl. Soekarno-Hatta No.678, Cipamokolan, Kec. Rancasari, Kota Bandung, Jawa Barat 	CCS (Type 2)	60													
-	SPKLU PLN UPK Bangka Belitung	Bangka Belitung	-2.077997811	106.1495644	Air Anyir, Merawang, Bangka Regency, Bangka Belitung Islands 33172	CCS (Type 2)	25													
-	SPKLU PLN ULP BANGKINANG	Bangkinang	0.334724015	101.0208243	Langgini, Bangkinang, Kampar Regency, Riau 28463	CCS (Type 2)	30													
-	SPKLU PLN ULP Banjar	Banjar	-7.3715469	108.5361313	SPKLU ULP Banjar	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50									
-	SPKLU UP3 Yogyakarta	Bantul	-7.8102234	110.4030417	PLN UP3 Yogyakarta, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60	CCS (Type 2)	100							
-	SPKLU PLN RSUD Sangkulirang 	Banua Baru 	0.986952449	117.9756595	Banua Baru, East Kutai Regency, East Kalimantan	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Purwokerto Kota	Banyumas	-7.4320898	109.2580048	SPKLU ULP Purwokerto Kota	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50											
-	Rest Area KM 379A Batang	Batang	-6.9578905	110.0146189	Rest Area KM 379A Batang, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	100	CCS (Type 2)	50	CCS (Type 2)	100	Type 2 (Tethered Connector) 				
-	Hyundai Cibubur	Bekasi	-6.3796898	106.9230127	Jl. Alternatif Cibubur No.25, RT.002/RW.008, Jatisampurna, Kec. Jatisampurna	Type 2 (Tethered Connector) 	7													
-	Hyundai Cikarang	Bekasi	-6.2907614	107.1509557	Jl. Industri Cikarang No.80, Pasirgombong, Kec. Cikarang Utara	Type 2 (Tethered Connector) 	7													
-	Hyundai Narogong	Bekasi	-6.2915674	106.9846553	Jl. Raya Narogong No.33, RT.010/RW.002, Bojong Rawalumbu, Kec. Rawalumbu	Type 2 (Tethered Connector) 	7													
-	Hyundai Pondok Gede	Bekasi	-6.2836634	106.9279781	Jl. Raya Jati Makmur, RT.001/RW.008, Jatimakmur, Kec. Pd. Gede	Type 2 (Tethered Connector) 	7													
-	Hyundai Summarecon Bekasi	Bekasi	-6.22584	107.0034372	Jl. Bulevar Timur, Blok VA No. 9 - 10, RT.003/RW.002, Marga Mulya, Kec. Bekasi Utara	Type 2 (Tethered Connector) 	7													
-	Rest Area 6B Cikampek	Bekasi	-6.2588297	106.9283015	Rest Area KM 6B Tol Cikampek, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	SPKLU ULP Bantar Gebang	Bekasi	-6.2672	107.01677	SPKLU ULP Bantar Gebang	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Bekasi Kota	Bekasi	-6.2391114	106.9934866	Jl. Ahmad Yani No.14, RT.004/RW.005, Marga Jaya, Kec. Bekasi Sel.	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Cibitung	Bekasi	-6.2667863	107.1307335	Jl. Raya Fatahillah No.6, Kalijaya, Kec. Cikarang Bar.	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Cikarang Kota	Bekasi	-6.3289369	107.1266884	SPKLU ULP Cikarang Kota	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Lemahabang	Bekasi	-6.2834627	107.1683438	Jl. Ki Hajar Dewantara, Simpangan, Kec. Cikarang Utara	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Medan Satria	Bekasi	-6.1982006	106.9746357	Jl. Sultan Agung No.353, RT.003/RW.006, Kali Baru, Kecamatan Medan Satria	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Mustika Jaya	Bekasi	-6.3202761	107.0335135	Jl. Let. Jend. Suprapto, Cimuning, RT.003/RW.004, Cimuning, Kec. Mustika Jaya	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Tambun	Bekasi	-6.2469305	107.0628338	Komplek Ruko De' Green, Jl. Raya Mangun Jaya No.1, Mangunjaya, Tambun Selatan	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Bekasi	Bekasi	-6.2527944	107.0104358	SPKLU UP3 Bekasi 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	30	CHAdeMO	30									
-	SPKLU UP3 Cikarang	Bekasi	-6.3654911	107.1797088	Sukamahi, Central Cikarang	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Belitung	Belitung	-2.7424213	107.6617185	Jl. A. Yani No.111, Perawas, Kec. Tj. Pandan	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50									
-	SPKLU Kantor PLN ULP Belopa 	Belopa 	-3.3840329	120.3697345	Tanamanai, Belopa, Luwu Regency, South Sulawesi 91994	Type 2 (Tethered Connector) 	22													
-	SPKLU Rayon Teluk Segara	Bengkulu	-3.791164539	102.2500358	Jl. Prof. Dr. Hazairin No.8, Ps. Baru, Kec. Tlk. Segara, Kota Bengkulu, Bengkulu 28114	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP BRASTAGI	Berastagi	3.18836	98.50805	Jalan Udara No 7	CCS (Type 2)	30	CHAdeMO	30											
-	SPKLU EVC SM Tower 	Berau 	2.143849	117.497872	Gayam, Berau Regency, East Kalimantan	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP BIAK KOTA	Biak	-1.172733	136.090716	Karang Mulia, Samofa, Biak Numfor Regency, Papua 98111	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN UP3 BIAK	Biak	-1.188414	136.092694	Jl. Yos Sudarso, Mandala, Kec. Biak Kota, Kabupaten Biak Numfor, Papua 98118	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP BIMA KOTA	Bima	-8.45897	118.741624	Jl. Soekarno Hatta, RT.01/RW.01, Monggonao, Kec. Mpunda, Kab. Bima, Nusa Tenggara Bar. 84111, Indonesia	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP SAPE	Bima	-8.5700198	118.9819167	Jl. Lintas Kaleo, Naru Bar., Kec. Sape, Kabupaten Bima, Nusa Tenggara Bar. 84182	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP WOHA	Bima	-8.560073	118.697058	Bar., Rabakodo, Kec. Woha, Kabupaten Bima, Nusa Tenggara Bar. 84173	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN UP3 BINJAI	Binjai	3.614592675	98.49576248	Jl. Tengku Amir Hamzah No.37, Pahlawan, Kec. Binjai Utara, Kota Binjai, Sumatera Utara 20748	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP BIREUEN	Bireuen	5.20422	96.71819	Jalan Raya Medan Banda Aceh	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	Balai Kota Bogor	Bogor	-6.5952177	106.7936935	Jl. Ir. H. Juanda No.10, RT.01/RW.01, Paledang, Kecamatan Bogor Tengah	Type 2 (Tethered Connector) 	22													
-	Hyundai Sholeh Iskandar	Bogor	-6.5414305	106.7715143	Jl. Sholeh Iskandar No.Km. 8, Cibadak, Kec. Tanah Sereal	Type 2 (Tethered Connector) 	7													
-	Hyundai Tajur	Bogor	-6.6299036	106.8246368	Jl. Raya Tajur No.91, RT.05/RW.04, Genteng, Kec. Bogor Timur	Type 2 (Tethered Connector) 	7													
-	Rest Area KM 21B Jagorawi	Bogor	-6.4346495	106.8935908	Rest Area KM 21B Tol Jagorawi, 	CHAdeMO	50	CCS (Type 1)	50	CCS (Type 2)	50									
-	Rest Area KM 38 B Jagorawi	Bogor	-6.576013668	106.8380773	Rest Area KM 38 B Jagorawi	CCS (Type 2)	120	Type 2 (Tethered Connector) 	22											
-	SPKLU ULP Bogor Barat	Bogor	-6.5159599	106.756784	Kemang, Kec. Kemang	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Bogor Kota	Bogor	-6.5959222	106.7895474	Jl. Kapten Muslihat No.2	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100											
-	SPKLU ULP Bojonggede	Bogor	-6.4773943	106.8037478	Jl. Raya Bojong Gede No.65, Bojong Baru, Kecamatan Bojonggede	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Cibinong	Bogor	-6.4761708	106.8637099	Jl. Raya Mayor Oking Jaya Atmaja No.KM.2, Ciriung, Kec. Cibinong	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Cipayung	Bogor	-6.6507646	106.8958328	Jl. Raya Puncak - Cianjur, Cipayung Datar, Kec. Megamendung	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Citereup	Bogor	-6.4590345	106.8967956	Jalan Raya Cagak, Gn. Putri, Kec. Gn. Putri	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Jasinga	Bogor	-6.5202418	106.4984819	Jl. Raya Cigudeg No.24, Bunar, Kec. Cigudeg	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Jonggol	Bogor	-6.462196	107.059234	Jalan Letkol Murlin No 123, Kampung Menan Desa Jonggol, Sukamaju, Kec. Jonggol	Type 2 (Tethered Connector) 	7													
-	SPKLU ULP Leuwiliang	Bogor	-6.5643502	106.6780479	Jalan Raya No.KM 17, Girimulya, Kec. Cibungbulang	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Bogor	Bogor	-6.5720981	106.8085552	PLN UP3 Bogor, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22									
-	SPKLU UP3 Gunung Putri	Bogor	-6.4590781	106.8968094	Jl. Raya Cileungsi - Jonggol No.KM, RW.1, Cileungsi Kidul, Kec. Cileungsi	Type 2 (Tethered Connector) 	22													
-	SPKLU Voltron	Bogor	-6.601420598	106.807129	Jl. Raya Pajajaran No.40, Tugu Kujang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16127	CCS	100	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN Kelurahan GN Elai	Bontang 	0.132604	117.475173	Satimpo, Bontang City, East Kalimantan	CHAdeMO	25													
-	Rest Area KM 487A Semarang Solo	Boyolali	-7.52305869	110.6671029	Rest Area KM 487A 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 260 B Brebes	Brebes	-6.906415955	108.9831963	Cipugur, Banjaratma, Kec. Bulakamba, Kabupaten Brebes, Jawa Tengah 52253	CCS (Type 2)	120	CHAdeMO	120	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN UP3 MUARA BUNGO	Bungo	-1.486358972	102.1183368	Bungo Timur, Muaro Bungo, Bungo Regency, Jambi 37211	CCS (Type 2)	30	Type 2 (Tethered Connector) 	7											
-	SPKLU PLN ULP Buntok 	Buntok 	-1.7168802	114.8484771	Buntok Kota, South Dusun, South Barito Regency, Central Kalimantan 73713	Type 2 (Tethered Connector) 	22													
-	Hyundai Cianjur	Cianjur	-6.8097688	107.1505283	Jl. Raya Bandung No.115, Bojong	Type 2 (Tethered Connector) 	7													
-	Kantor Pemda Cianjur	Cianjur	-6.8228902	107.1386342	Pamoyanan, Kec. Cianjur, Kabupaten Cianjur, Jawa Barat 43211	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN UP3 CIANJUR	Cianjur	-6.813676882	107.1368941	Kp.padarincang sukaharja, Palasari, Kec. Cipanas, Cianjur Regency, West Java 43253	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU ULP Cimacan	Cianjur	-6.7138313	107.0226648	Jl. Loji, Cimacan, Kec. Cipanas, Kabupaten Cianjur, Jawa Barat 43253	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Cipanas	Cianjur	-6.7347405	107.0416802	Jl. Raya Cipanas No.29, Cipanas, Kec. Cipanas	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Ciranjang	Cianjur	-6.8135872	107.2516485	Jl. Raya Bandung No.123, Ciranjang, Kec. Ciranjang	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Cianjur	Cianjur	-6.8136952	107.1371128	Jl. Dr. Muwardi No.165, Bojongherang	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN UP3 CILACAP	Cilacap	-7.722942308	109.0115301	Jl. Brigjend. Katamso No.52, Cilacap, Sidanegara, Kec. Cilacap Tengah, Kabupaten Cilacap, Jawa Tengah 53223	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22	CHAdeMO	25									
-	Hyundai Cilegon	Cilegon	-6.0345587	106.0839142	Jl. Raya Serang No.2, Kedaleman, Kec. Cibeber	Type 2 (Tethered Connector) 	7													
-	Pelabuhan Merak 	Cilegon	-5.935755	106.0000987	Pelabuhan Merak, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	SPKLU Rest Area KM 125 B Padalarang	Cimahi	-6.885795778	107.5202593	Cibeber, Cimahi Selatan, Cimahi City, West Java	CCS (Type 2)	120													
-	SPKLU ULP Cimahi Selatan	Cimahi	-6.8986161	107.5541454	Jl. Mahar Martanegara, Cigugur Tengah, Kec. Cimahi Tengah	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Prima Cibabat	Cimahi	-6.8757615	107.5448608	Jalan Jend. Amir Mahmud No.511, Karangmekar, Cimahi Tengah, Padasuka, Kec. Cimahi Tengah	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Cimahi	Cimahi	-6.8708585	107.5364378	Jl. Jend. H. Amir Machmud No.675, Padasuka, Kec. Cimahi Tengah	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP CIPAYUNG	Cipayung	-6.650781987	106.8958595	Jl. Raya Puncak - Cianjur, Cipayung Datar, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770	CCS (Type 2)	120	Type 2 (Tethered Connector) 	22											
-	PT. PLN (Persero) UP3 Cirebon	Cirebon	-6.710961095	108.5403249	PT. PLN UP3 Cirebon 	CCS (Type 2)	120	Type 2 (Tethered Connector) 	22											
-	Rest Area KM 207A Palikanci	Cirebon	-6.7755907	108.5629485	Rest Area KM 207A Tol Palikanci, 	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	50	CCS (Type 2)	50	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22			
-	Rest Area KM 208B Palikanci	Cirebon	-6.7787407	108.5670858	Rest Area KM 208B Tol Palikanci, 	CCS (Type 2)	50	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	25							
-	Rest Area KM 228A Kanci Pejagan	Cirebon	-6.8813312	108.7033791	Rest Area KM 228A Tol Kanci - Pejagan, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200											
-	Rest Area KM 229B Kanci Pejagan	Cirebon	-6.8847187	108.7070833	Rest Area KM 229B Tol Kanci - Pejagan, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200											
-	SPKLU PLN UP3 LUBUK PAKAM	Deli Serdang	3.546843665	98.86522852	Kw. Pemerintahan Deli Serdang, Jl. Medan - Tebing Tinggi, Perbarakan, Kec. Pagar Merbau, Kabupaten Deli Serdang, Sumatera Utara 20551	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22											
-	Dunkin Teuku Umar Dauh 	Denpasar	-8.681471571	115.1990721	Dunkin Teuku Umar Dauh  Jalan Teuku Umar no.161-259 	Type 2 (Tethered Connector) 	22													
-	SPKLU Semawang Sanur	Denpasar	-8.70500588	115.2496179	SPKLU Semawang Sanur  Jl. Danau Poso no.27, Sanur 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	SPKLU Tohpati Denpasar	Denpasar	-8.635862306	115.2563189	SPKLU Tohpati Denpasar  Jalan Merak No.10, Kesiman Kertalangu	CCS (Type 2)	30	CHAdeMO	30	CCS (Type 2)	200									
-	Hyundai Cimanggis	Depok	-6.3587289	106.859641	Jl. Raya Bogor No.18, Mekarsari, Kec. Cimanggis	Type 2 (Tethered Connector) 	7													
-	Hyundai Margonda	Depok	-6.3808456	106.830795	Jl. Margonda Raya No.234-228, Kemiri Muka, Kecamatan Beji	Type 2 (Tethered Connector) 	7													
-	SPKLU UIP JBB	Depok	-6.3437657	106.7884115	PLN UIP JBB, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	SPKLU ULP Cimanggis	Depok	-6.3757305	106.8635032	Jl. Raya Bogor No.18, RT.7/RW.5, Cisalak Ps., Kec. Cimanggis	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Depok Kota	Depok	-6.3958509	106.836791	Jl. Sentosa Raya No.4, RT.11/RW.7, Mekar Jaya, Kec. Sukmajaya	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Sawangan	Depok	-6.4122073	106.734798	Jl. Jkt - Bogor, Duren Mekar, Kec. Bojongsari	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Depok	Depok	-6.4183088	106.8266985	Grand Depok City, Jl. Kota Kembang Raya Jl. Boulevard Grand Depok City No.1, Kotakembang, Tirtajaya, Kec. Sukmajaya	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN UP3 DUMAI	Dumai	1.66978	101.44739	JL Jend Sudirman No 185b	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP ENDE	Ende 	-8.8451142	121.6626432	Kel. Mautapaga, Ende Regency, East Nusa Tenggara	Type 2 (Tethered Connector) 	7													
-	Jalan Kiansantang	Garut	-7.217104545	107.9016429	Jalan Kiansantang	Type 2 (Tethered Connector) 	22													
-	Pemdopo garut	Garut	-7.217016384	107.9016308	Jalan Kiansantang	Type 2 (Tethered Connector) 	22													
-	SPKLU KP MALANGBONG	Garut	-7.060873585	108.0857948	Jl. Raya Bandrek-Malangbong, Sakawayana, Kec. Malangbong, Kabupaten Garut, Jawa Barat 44188	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN ULP GARUT KOTA	Garut	-7.194802422	107.8863304	Jl. Otista No.140A, Sukagalih, Kec. Tarogong Kidul, Kabupaten Garut, Jawa Barat 44151	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN ULP PAMEUNGPEUK	Garut	-7.646511023	107.7085672	Jl. Cilauteureun, Mancagahar, Kec. Pameungpeuk, Kabupaten Garut, Jawa Barat 44175	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Limbangan	Garut	-7.0345331	107.9853104	SPKLU ULP Limbangan, Garut	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60											
-	Rest Area KM 753 B Surabaya Gempol	Gempol	-7.417815848	112.6937081	Surabaya Gempol	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN UP 3 Gorontalo	Gorontalo 	0.575364	123.047793	Jl. Prof. DR. Jhon Aryo Katili, Paguyaman, Kec. Kota Tengah, Kota Gorontalo, Gorontalo 96128	CHAdeMO	60													
-	SPKLU ULP Limboto	Gorontalo 	0.552943	123.060665	Wumialo, Gorontalo Regency, Gorontalo	CHAdeMO	25													
-	Wuling Kumala Gorontalo	Gorontalo 	0.536442	123.060655	Jl. Nani Wartabone, Ipilo, Kec. Kota Tim., Kota Gorontalo, Gorontalo 96134	Type 2 (Tethered Connector) 	7													
-	Rest Area TRAVOY KM 725A	Gresik	-7.378487	112.54568	Rest Area KM 725A 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100	CCS (Type 2)	100					
-	SPKLU WINI	Humusu	-9.1855	124.4883315	 Humusu C, North Central Timor Regency, East Nusa Tenggara	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN UP3 Renggat	Indragiri Hulu	-0.39185594	102.4368597	Jl. Batu Canai, Sungai Dawu, Kec. Rengat Bar., Kabupaten Indragiri Hulu, Riau 29351	CCS (Type 2)	200													
-	Rest Area KM 130A Cipali	Indramayu	-6.5756634	107.9600189	Rest Area KM 130A 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	25					
-	Ciputra Int. Puri Amsterdam Apartment	Jakarta Barat	-6.173003717	106.7309485	Kawasan Ciputra International	Type 2 (Tethered Connector) 	22													
-	Ciputra Int. Tokopedia Care Offices	Jakarta Barat	-6.172920755	106.7303181	Jl. Lkr Luar Barat No.101	Type 2 (Tethered Connector) 	22													
-	Hyundai Joglo	Jakarta Barat	-6.220748	106.7374952	Jl. H. Muchtar Raya No.28A, Joglo, Kec. Kembangan	Type 2 (Tethered Connector) 	7													
-	Hyundai Kebon Jeruk	Jakarta Barat	-6.1740897	106.7652941	Jl. Panjang No.5, RT 10 RW 5, Kedoya Utara, Kec. Kb. Jeruk	Type 2 (Tethered Connector) 	7													
-	Hyundai Lippo Mall Puri	Jakarta Barat	-6.1877124	106.7386449	Jl. Puri Indah Raya Puri Indah CBD, RT.3/RW.2, Kembangan Sel., Kec. Kembangan	Type 2 (Tethered Connector) 	7													
-	KFC Jalan Panjang	Jakarta Barat	-6.2011736	106.7695513	Jl. Panjang Arteri Klp. Dua Raya, RW.2, Kb. Jeruk, Kec. Kb. Jeruk	Type 2 (Tethered Connector) 	22													
-	Asuransi Ramayana Claim Center	Jakarta Pusat	-6.1692436	106.8189305	Asuransi Ramayana Claim Center 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	BTN Tower	Jakarta Pusat	-6.1672156	106.8199182	BTN Tower	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	Brilian Center	Jakarta Pusat	-6.2164352	106.8141387	Brilian Center	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	Graha BNI	Jakarta Pusat	-6.2034327	106.8212754	Jl. Jenderal Sudirman No.1, RT.10/RW.11, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	Hyundai Pramuka	Jakarta Pusat	-6.1920178	106.8667942	Jl. Pramuka No.137, RT.14/RW.5, Rawasari, Kec. Cemp. Putih	Type 2 (Tethered Connector) 	7													
-	Hyundai Sawah Besar	Jakarta Pusat	-6.1601217	106.8228545	Jl. Sukarjo Wiryopranoto No.49, RT.4/RW.1, Maphar, Kec. Taman Sari	Type 2 (Tethered Connector) 	7													
-	Kantor Kementrian BUMN	Jakarta Pusat	-6.1815606	106.8255342	Jl. Medan Merdeka Sel. No.13, RT.11/RW.2, Gambir, Kecamatan Gambir	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50									
-	Menara BNI	Jakarta Pusat	-6.2037346	106.803036	Menara BNI	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	Pool Damri Kemayoran	Jakarta Pusat	-6.1596592	106.8485294	Pool Damri Kemayoran	CCS (Type 2)	180													
-	SPKLU UID Jakarta Raya	Jakarta Pusat	-6.1803576	106.8332266	PLN UID Jakarta Raya	Type 2 (Tethered Connector) 	22	CCS (Type 2)	87.5	CHAdeMO	62.5									
-	SPKLU UP3 Cempaka Putih	Jakarta Pusat	-6.1813881	106.8753306	PLN UP3 Cempaka Putih	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Aeon Mall Tanjung Barat	Jakarta Selatan	-6.3056357	106.840534	Aeon Mall Tanjung Barat 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Hyundai Cilandak	Jakarta Selatan	-6.3081439	106.7810072	Jl. Karang Tengah Raya No.11D, RT.13/RW.4, Lb. Bulus, Kec. Cilandak	Type 2 (Tethered Connector) 	7													
-	Hyundai Fatmawati	Jakarta Selatan	-6.2838682	106.7957317	Jl. RS. Fatmawati Raya No.29, RW.10, Cilandak Bar., Kec. Cilandak	Type 2 (Tethered Connector) 	7													
-	Hyundai Lippo Plaza Kramat Jati	Jakarta Selatan	-6.271002	106.8680931	Lippo Plaza Kramat Jati (Lt. Ground Floor 58A,60, Jl. Raya Bogor No.Km.19, Kramat Jati	Type 2 (Tethered Connector) 	7													
-	Hyundai Mampang	Jakarta Selatan	-6.2642398	106.8307592	Jl. Buncit Raya No.203, Jak sel, Kec. Mampang Prpt	Type 2 (Tethered Connector) 	7													
-	Hyundai Pancoran	Jakarta Selatan	-6.24568	106.843288	Jl. Raya Pasar Minggu No.7, Pancoran, Kec. Pancoran	Type 2 (Tethered Connector) 	7													
-	Hyundai Simprug	Jakarta Selatan	-6.2321374	106.7880386	Jl. Teuku Nyak Arief No.14, RW.2, Grogol Utara, Kec. Kby. Lama	Type 2 (Tethered Connector) 	7													
-	Kantor Dinas Ketenagalistrikan ESDM	Jakarta Selatan	-6.2260424	106.8334783	Kantor Dinas Ketenagalistrikan ESDM 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	30	CHAdeMO	30									
-	Kantor Pos Fatmawati	Jakarta Selatan	-6.2945288	106.7947741	Kantor Pos Fatmawati, 	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	7									
-	L'Avenue Apartment	Jakarta Selatan	-6.2483075	106.8430738	L'Avenue Apartment	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Plaza Mandiri	Jakarta Selatan	-6.224947	106.8145192	Plaza Mandiri	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	SPKLU 	Jakarta Selatan	-6.2406211	106.8033483	PLN Pusat	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	180					
-	SPKLU Puslitbang	Jakarta Selatan	-6.2549923	106.8332787	SPKLU Puslitbang	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU UP3 Bulungan	Jakarta Selatan	-6.2395213	106.7980413	PLN UP3 Bulungan 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22	CHAdeMO	24	CCS (Type 2)	24					
-	SPKLU UP3 Lenteng Agung	Jakarta Selatan	-6.254105	106.83567	Jl. Lenteng Agung Raya No.5, RT.5/RW.2, Lenteng Agung, Kec. Jagakarsa	Type 2 (Tethered Connector) 	7													
-	Shell Antasari	Jakarta Selatan	-6.256409399	106.8083342	Jl. Pangeran Antasari No.14, RW.1, Cipete Utara, Kec. Kby. Baru	CHAdeMO	50	CCS (Type 1)	50	CCS (Type 2)	50									
-	Shell Pacific Place	Jakarta Selatan	-6.2248678	106.808052	Jl. Jend Sudirman KAV 52-53	CCS (Type 2)	11													
-	Summitmas Tower 1	Jakarta Selatan	-6.2267105	106.8037055	Summitmas Tower 1	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50									
-	VOLTRON 	Jakarta Selatan	-6.225335883	106.8337264	Trinity Tower	Type 2 (Tethered Connector) 	22													
-	Aeon Mall Jakarta Garden City	Jakarta Timur	-6.1721883	106.9522209	Jl. Jkt Garden City Boulevard No.1, RT.8/RW.6, Cakung Tim., Kec. Cakung	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Hyundai DI Panjaitan	Jakarta Timur	-6.235475	106.8780931	Jl. DI. Panjaitan No.138, RT.15/RW.2, Cipinang Besar Sel., Kecamatan Jatinegara	Type 2 (Tethered Connector) 	7													
-	Hyundai Kalimalang	Jakarta Timur	-6.247918	106.9288992	Jl. Raya Kalimalang, Pd. Klp., Kec. Duren Sawit	Type 2 (Tethered Connector) 	7													
-	Rest Area KM 10.6 A Jagorawi	Jakarta Timur	-6.3402071	106.8906501	Rest Area KM 10.6 A Tol Jagorawi, 	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22											
-	SPKLU UP3 Jatinegara	Jakarta Timur	-6.221296	106.868531	Jl. Jatinegara Timur No.75, RT.10/RW.2, Bali Mester, Kecamatan Jatinegara	Type 2 (Tethered Connector) 	7													
-	Taman Mini Indonesia Indah	Jakarta Timur	-6.3024459	106.8951559	Taman Mini Indonesia Indah	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	Wisma Indomobil	Jakarta Timur	-6.2424664	106.8636189	Wisma Indomobil 	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	7									
-	Hyundai Kelapa Gading	Jakarta Utara	-6.154215	106.8938683	Plaza Kelapa Gading Ruko Blok A unit 31, 31A, 32, 32A	Type 2 (Tethered Connector) 	7													
-	Hyundai Pegangsaan	Jakarta Utara	-6.1746077	106.9139163	Jl. Pegangsaan Indah Bar., RT.16/RW.21, Pegangsaan Dua, Kec. Klp. Gading	Type 2 (Tethered Connector) 	7													
-	Hyundai Pluit	Jakarta Utara	-6.117983	106.7890265	Jl. Pluit Indah No.17, RW.6, Pluit, Kec. Penjaringan	Type 2 (Tethered Connector) 	7													
-	Hyundai Sunter	Jakarta Utara	-6.1311887	106.8554854	Jl. Danau Sunter Barat Sunter No.7, RT.2/RW.7, Sunter Agung, Kec. Tj. Priok	Type 2 (Tethered Connector) 	7													
-	Indomobil Nissan Datsun Kapuk	Jakarta Utara	-6.124932	106.7549648	Jl. Pantai Indah Selatan No.1, RT.2/RW.3, Kapuk Muara, Kec. Penjaringan	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	KFC Artha Gading	Jakarta Utara	-6.1471868	106.8973549	Jl. Artha Gading Sel. No.KAV.D, RT.3RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Tanjung Priok	Jakarta Utara	-6.1213146	106.8930291	Jl. Yos Sudarso No.30, RT.19/RW.5, Sunter Jaya, Kec. Tj. Priok	Type 2 (Tethered Connector) 	7													
-	SPKLU UP3 Bandengan	Jakarta Utara	-6.1364857	106.7971101	Jl. Bandengan Utara Raya No.79, RT.7/RW.16, Penjaringan, Kec. Penjaringan	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Shell Pluit	Jakarta Utara	-6.1257	106.798439	Jl. Pluit Selatan Raya No.7, RT.7/RW.7, Penjaringan, Kec. Penjaringan	CHAdeMO	50	CCS (Type 1)	50	CCS (Type 2)	50									
-	SPKLU PLN UP3 JAMBI	Jambi	-1.60746315	103.5925865	JL Urip Sumoharjo No 2,Kota Jambi	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22	CHAdeMO										
-	SPKLU PLN UIW Papua & Papua Barat	Jayapura	-2.54288	140.702602	Jl. Ahmad Yani No.8, Gurabesi, Kec. Jayapura Utara, Kota Jayapura, Papua 99222	CCS (Type 2)	50													
-	SPKLU PLN UP3 JAYAPURA	Jayapura	-2.608644	140.6736638	Jl. Baru Ps. Lama Abepura No.313, Wai Mhorock, Kec. Abepura, Kota Jayapura, Papua 99225	Type 2 (Tethered Connector) 	22													
-	SPKLU SAGA MALL ABEPUTRA	Jayapura	-2.6106043	140.6654499	Jl. Raya Abepura - Sentani No.12, Kota Baru, Kec. Abepura, Kota Jayapura, Papua 99351	Type 2 (Tethered Connector) 	22													
-	Rest Area KM 695A Teras Melati	Jombang	-7.485149893	112.311234	Sawah, Kedung Mlati, Kec. Kesamben, Kabupaten Jombang, Jawa Timur 61484	CCS (Type 2)	120	CHAdeMO	120	CCS (Type 2)	22									
-	Rest Area Km 678B Tol Mojokerto-Kertosono	Jombang	-7.536054522	112.1756795	Rest Area Km 678B Tol Mojokerto-Kertosono 	Type 2 (Tethered Connector) 	7													
-	PLN ULP Mengwi  	Kabupaten Bandung	-8.583551133	115.1812569	PLN ULP Mengwi 	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	SPKLU BNI Crea Nusadua	Kabupaten Bandung	-8.787120047	115.2062311	Jl. Bypass Ngurah Rai Ruko Nusa Dua Indah Blok B & C, Lingk Mumbul, Benoa, South Kuta, Badung Regency, Bali 80361	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22									
-	SPKLU Bank Mandiri Nusadua	Kabupaten Bandung	-8.790188391	115.2116452	Bank Mandiri Nusadua 	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22									
-	SPKLU CIARO NAGREG (SPBU)	Kabupaten Bandung	-7.036074125	107.9265133	Jalan Raya, Limbangan, Ciaro, Nagreg, Bandung Regency, West Java 40215	CCS (Type 2)	120													
-	SPKLU Kota Baru Parahyangan	Kabupaten Bandung	-6.867596905	107.4649677	SPKLU Kota Baru Parahyangan 	Type 2 (Socket Only)	22	CCS (Type 2)	25	CHAdeMO	25									
-	SPKLU PLN Charging Station Munggu	Kabupaten Bandung	-8.624322232	115.123523	PLN Munggu 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	SPKLU Kintamani	Kabupaten Bangli	-8.273082151	115.3455973	SPKLU Kintamani 	CCS (Type 2)	30	CHAdeMO	30	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22					
-	PLN ULP Bantul	Kabupaten Bantul	-7.892726306	110.3362792	PLN ULP Bantul, 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	Rest Area Grand Watu Dodol	Kabupaten Banyuwangi	-8.087461291	114.4160454	Rest Area Grand Watu Dodol, 	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 										
-	Rest Area "Travoy" KM 360 B Batang Semarang	Kabupaten Batang	-6.921258	109.86356	Rest Area KM 360 B Batang Semarang	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50							
-	Rest Area KM45 Ciawi	Kabupaten Bogor	-6.637049	106.843805	Rest Area  KM 45A  Tol Jagorawi 	CCS (Type 2)	60													
-	PLN ULP Bondowoso	Kabupaten Bondowoso	-7.917719676	113.8297234	PLN ULP Bondowoso 	CCS (Type 2)	40	CHAdeMO	40	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 487B Semarang Solo	Kabupaten Boyolali	-7.523590601	110.6680246	Rest Area KM 487B Tol Semarang - Solo, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 252A  Brebes	Kabupaten Brebes	-6.906006	108.91516	Rest Area KM 252A  Brebes, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	PT PLN (Persero) - Rayon Seririt	Kabupaten Buleleng	-8.192656643	114.9410188	PT PLN - Rayon Seririt 	Type 2 (Tethered Connector) 	22													
-	PT PLN (Persero) ULP Singaraja	Kabupaten Buleleng	-8.114121962	115.0919179	PT PLN ULP Singaraja 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	SPKLU HOTEL Umega	Kabupaten Dharmasraya	-1.021796381	101.6044717	Jl. Trans Sumatera Km. 200, Gunung Medan, Muara Bungo - Solok, Gn. Medan, Darmas Raya	Type 2 (Tethered Connector) 	22													
-	PT. PLN (Persero) Rayon Gianyar	Kabupaten Gianyar	-8.543858773	115.3227025	PLN Rayon Gianyar  	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 										
-	Anjungan Betutu, Gilimanuk	Kabupaten Jembrana	-8.168419752	114.4351757	Anjungan Betutu, Gilimanuk, Kec. Melaya	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	Type 2 (Tethered Connector) 	22							
-	Perusahaan Listrik Negara (PLN). PT Persero - Rayon Negara	Kabupaten Jembrana	-8.360213289	114.6250538	PLN - Rayon Negara, 	CCS (Type 2)	30	CHAdeMO	30	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22					
-	Rest Area KM 678A Tol Kertosono - Mojokerto	Kabupaten Jombang	-7.535145928	112.1752327	Rest Area KM 678A  Tol Kertosono - Mojokerto 	Type 2 (Tethered Connector) 	7													
-	PLN (Persero) UP3 KEDIRI	Kabupaten Kediri	-7.813553979	112.0141983	PLN (Persero) UP3 KEDIRI	CCS (Type 2)	47	Type 2 (Tethered Connector) 	7											
-	Rest Area "Travoy" KM 389 B Batang Semarang	Kabupaten Kendal	-6.984765	110.10456	Rest Area KM 389B, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	7	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22	
-	Rest Area "Travoy" KM 391 A Batang Semarang	Kabupaten Kendal	-6.98644049	110.123187	Rest Area KM 391A , Tol Batang - Semarang, 	Type 2 (Tethered Connector) 	22													
-	PT. PLN (Persero) ULP Klungkung	Kabupaten Klungkung	-8.531047585	115.3983817	PLN ULP Klungkung 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 										
-	Rest Area KM 33 A Tol Bakauheni - Terbanggi Besar	Kabupaten Lampung Selatan	-5.653534073	105.5844765	Rest Area KM 33 A  	Type 2 (Tethered Connector) 	22													
-	Rest Area KM 33B Tol Bakauheni - Terbanggi Besar	Kabupaten Lampung Selatan	-5.652560556	105.585065	Rest Area KM 33B 	Type 2 (Tethered Connector) 	22													
-	PT. PLN (Persero) ULP Lumajang	Kabupaten Lumajang	-8.106658092	113.2315683	PLN ULP Lumajang, 	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22											
-	Rest Area KM 597A	Kabupaten Magetan	-7.543401844	111.506373	Rest Area KM 597A  	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100									
-	Rest Area KM 166A Tol Cipali	Kabupaten Majalengka	-6.713363	108.242231	Rest Area KM 166A 	CCS (Type 2)	100	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22									
-	OmbÃ© Kofie Araya	Kabupaten Malang	-7.937809753	112.6819905	Jl. Araya Boulevard No.27, Ulesari, Tirtomoyo, Kec. Pakis, Kabupaten Malang, Jawa Timur 65154	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22									
-	Rest Area "Travoy" KM 575B Solo Ngawi	Kabupaten Ngawi	-7.410204954	111.3817465	Rest Area KM 575B Solo Ngawi 	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22	CHAdeMO		CCS (Type 2)	100							
-	Rest Area Km 319B Pemalang	Kabupaten Pemalang	-6.925075898	109.495075	Rest Area Km 319B,	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100	CCS (Type 2)	50	CCS (Type 2)	100			
-	Rest Area KM 819B Tol Pasuruan Probolinggo 	Kabupaten Probolinggo	-7.748941587	113.0706018	 Rest Area KM 819B Tol Pasuruanâ€“Probolinggo 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Socket Only)	22									
-	Rest Area KM 833 B  Tol Pasuruan Probolinggo  	Kabupaten Probolinggo	-7.809062775	113.171535	Rest Area KM 833 B  Tol Pasuruanâ€“Probolinggo   Aum Kerep, Pohsangit Leres, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50									
-	Rest Area KM 833A  Tol Pasuruan Probolinggo  	Kabupaten Probolinggo	-7.808051433	113.1714466	Rest Area KM 833A  Tol Pasuruanâ€“Probolinggo   Timur 2, Muneng Kidul, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Socket Only)	22									
-	Rest Area KM 72 A Cipularang	Kabupaten Purwakarta	-6.46623	107.44468	Rest Area KM 72A 	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22											
-	Rest Area KM 97B Cipularang	Kabupaten Purwakarta	-6.674333	107.4391	Rest Area Km 97B Tol Cipularang, 	CCS (Type 2)	60													
-	Rest Area "Travoy" KM 538 B Solo - Ngawi	Kabupaten Sragen	-7.394084552	111.051726	Rest Area KM 538B Solo - Ngawi, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area "Travoy" KM 538A Solo Ngawi	Kabupaten Sragen	-7.393221131	111.0511266	Rest Area KM 538A Solo - Ngawi, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 102 A Tol Cipali	Kabupaten Subang	-6.508149664	107.7219356	Rest area, Jl. Tol Cikopo - Palimanan km 102 a, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25							
-	PLN Tabanan	Kabupaten Tabanan	-8.539558999	115.1273994	PLN Tabanan 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	Rest Area Soka , Raya DPS Gilimanuk	Kabupaten Tabanan	-8.528572459	114.9968555	Jl. Raya Denpasar - Gilimanuk No.2, Antap, Kec. Selemadeg,	CCS (Type 2)	50													
-	Rest Area KM 45B Tol Jakarta-Merak	Kabupaten Tangerang	-6.186547	106.408348	Rest Area KM 45B Tol Jakarta-Merak, 	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	25									
-	SPKLU Centre Point PIK 2	Kabupaten Tangerang	-6.049831774	106.6947785	SPKLU Centre Point PIK 2 	CCS (Type 2)	200													
-	Rest Area KM 287 A Tol Pejagan-Pemalang	Kabupaten Tegal	-6.933294968	109.2149735	Rest Area KM 287A Tol Pejagan-Pemalang 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	PT. PLN ULP Tulungagung	Kabupaten Tulungagung	-8.056008792	111.9001077	PT. PLN ULP Tulungagung 	CCS (Type 2)	40	CHAdeMO	40	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP WONOSOBO	Kabupaten Wonosobo 	-7.36895194	109.8998165	PLN ULP WONOSOBO	Type 2 (Tethered Connector) 	7	CCS (Type 2)	25											
-	Kantor Gubernur Kalimantan Selatan	Kalimantan 	-3.4844869	114.8327574	Palam, Kec. Cemp., Kota Banjar Baru, Kalimantan Selatan 70732, Indonesia	Type 2 (Tethered Connector) 	22													
-	Unit Induk Distribusi Kalimantan Selatan & Kalimantan Tengah	Kalimantan 	-3.438565	114.8257812	Jl. Panglima Batur No.1, Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru, Kalimantan Selatan 70711, Indonesia	Type 2 (Tethered Connector) 	22													
-	Rest Area KM 36B Tol Pekanbaru - Bangkinang	Kampar	0.411055657	101.0492015	Jl. Tol Pekanbaru - Bangkinang, Muara Jalai, Kec. Bangkinang, Kabupaten Kampar, Riau 21184	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU Rest Area KM 36A Tol Pekanbaru-Bangkinang	Kampar	0.411773589	101.0471707	Jl. Tol Pekanbaru - Bangkinang, Muara Jalai, Kec. Bangkinang, Kabupaten Kampar, Riau 21184	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU Rest Area KM 45 A Pekanbaru-Dumai	Kandis	0.936715777	101.2304881	Jalan Tol Pekanbaruâ€“Dumai	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN KARANGASEM	Karangasem	-8.452265955	115.6167032	Jl. Bhayangkara No.21, Karangasem, Kec. Karangasem, Kabupaten Karangasem, Bali 80811	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Hyundai Karawang	Karawang	-6.3287586	107.2923004	Samping Hotel Mercure, Jl. Arteri Galuh Mas Raya, Sukaharja	Type 2 (Tethered Connector) 	7													
-	Marketing Office Summarecon Karawang	Karawang	-6.32272134	107.3385879	Bulevar Summarecon Emerald Karawang	Type 2 (Tethered Connector) 	22													
-	Perumahan Grand Taruma	Karawang	-6.305614	107.2782233	Jl. Akses Tol Karawang Bar., Sukamakmur, Telukjambe Timur	Type 2 (Tethered Connector) 	22													
-	Rest Area 62B Cikampek	Karawang	-6.3890337	107.3947313	Rest Area KM 62B Tol Cikampek, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	50	CHAdeMO	50							
-	Rest Area KM 57A Cikampek	Karawang	-6.3681059	107.3603665	Rest Area KM 57A Tol Cikampek 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	50	CCS (Type 2)	25							
-	SPKLU ULP Cikampek	Karawang	-6.4119195	107.4643202	Jl. Ir. Haji Juanda No.29, Cikampek Tim., Kec. Cikampek	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Karawang Kota	Karawang	-6.3077029	107.2927215	Jl. Kertabumi No.16, Karawang Kulon, Kec. Karawang Bar.	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Karawang	Karawang	-6.3056721	107.2921693	Jl. Kertabumi No.36, Karawang Kulon, Kec. Karawang Bar.	Type 2 (Tethered Connector) 	22													
-	Rest Area KM 130 B Cipali	Karawang Regency	-6.576975547	107.9605507	Rest Area KM 130 B, Indramayu,	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25							
-	SPKLU Hotel Sibayak Internasional Berastagi	Karo	3.200696722	98.50516126	Jl. Merdeka, Gundaling I, Kec. Berastagi, Kabupaten Karo	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP KEBUMEN	Kebumen	-7.675117693	109.6705215	Jl. Tentara Pelajar No.19, Panggel, Panjer, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54312	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN ULP KISARAN	Kisaran Barat	2.982264803	99.62478961	Jalan Dokter Sutomo, Tegal Sari, Kec. Kota Kisaran Barat, Kabupaten Asahan, Sumatera Utara 21211	Type 2 (Tethered Connector) 	22													
-	Candi Prambanan	Klaten	-7.754247	110.4940114	Jl. Raya Solo - Yogyakarta No.25, Tlogo Kidul, Kb. Dalem Kidul, Kec. Prambanan, Kabupaten Klaten, Jawa Tengah 57454	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	SPKLU PLN ULP Kota Bangun 	Kota Bangun 	-0.271681	116.595082	Bangun Ulu City, Kotabangun, Kutai Kartanegara Regency, East Kalimantan 75561	Type 2 (Tethered Connector) 	22													
-	Bank BRI KC Denpasar Renon	Kota Denpasar	-8.671889887	115.2317683	Bank BRI Renon 	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22									
-	Rumah BUMN Denpasar	Kota Denpasar	-8.692711786	115.2180367	Rumah BUMN Denpasar 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	PLN ULP Probolinggo	Kota Probolinggo	-7.749930023	113.2172197	PLN ULP Probolinggo 	CCS (Type 2)	100													
-	SPKLU KANTOR PLN UP3 KOTAMOBAGU 2	Kotamobagu	0.733	124.321656	Jl. Paloko Kinalang No.2, Kotabangon, Kec. Kotamobagu Tim., Kota Kotamobagu, Sulawesi Utara 95716	Type 2 (Tethered Connector) 	22													
-	Wuling Kumala Kotamobagu 	Kotamobagu	0.734968	124.30611	Mogolaing, Kotamobagu Barat, Kotamobagu City, North Sulawesi	Type 2 (Tethered Connector) 	7													
-	SPKLU WING HUB KUALANAMU	Kualanamu	3.598581525	98.82985308	Komp Hub Kualanamu,jl Arteri Kualanamu No 9	CCS (Type 2)	20	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN Rayon Taluk Kuantan	Kuantan Singingi	-0.531406525	101.5704978	Jl. Limuno Timur, Ps. Taluk, Kec. Kuantan Tengah, Kabupaten Kuantan Singingi, Riau 29566	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU ULP Wates	Kulon Progo	-7.8660434	110.1507383	PLN ULP Wates, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200											
-	PT PLN (Persero) ULP Kuningan	Kuningan Regency	-6.977567549	108.4846409	PT PLN (Persero) ULP Kuningan	Type 2 (Tethered Connector) 	22													
-	SPKLU HOTEL HARPER	Kupang 	-10.1691682	123.6109462	Jalan CBD Boulevard X No.11, Fatululi, Kec. Oebobo, Kota Kupang, Nusa Tenggara Tim.	Type 2 (Tethered Connector) 	22													
-	SPKLU PARADOX KUPANG	Kupang 	-10.173494	123.614013	Jl. W.J. Lalamentik, Oebufu, Kec. Oebobo, Kota Kupang, Nusa Tenggara Tim.	CHAdeMO	25													
-	SPKLU TIROSA	Kupang 	-10.1556461	123.633811	Jl. Piet A. Tallo No.101, Oesapa Bar., Kec. Klp. Lima, Kota Kupang, Nusa Tenggara Tim. 85228	Type 2 (Tethered Connector) 	7													
-	SPKLU TRANSMART KUPANG	Kupang 	-10.170178	123.609196	Jl. W.J. Lalamentik, Oebufu, Kec. Oebobo, Kota Kupang, Nusa Tenggara Tim. 85111, Indonesia	Type 2 (Tethered Connector) 	22													
-	SPKLU MANDALIKA (Kawasan ITDC)	Kuta	-8.890897505	116.2832648	Kuta, Pujut, Central Lombok Regency, West Nusa Tenggara 83573	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	SPKLU BLUEMOON HOTEL	Labuan Bajo	-8.5006198	119.883657	 Jl. H. Ishaka, Goron Talo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim.	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN Kampung Ujung, Labuan Bajo	Labuan Bajo	-8.4904129	119.8755916	Labuan Bajo, West Manggarai Regency, East Nusa Tenggara	CCS (Type 2)	50													
-	SPKLU PLN ULP LABUAN BAJO	Labuan Bajo	-8.475708	119.890606	Kompleks SMIP, Jl. Frans Nala, Batu Cermin, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim. 86763	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP Lakawan 	Lakawan 	-3.391425	119.798141	Mataran, Anggeraja, Enrekang Regency, South Sulawesi 91752	Type 2 (Tethered Connector) 	22													
-	Rest Area 49A Trans Sumatra	Lampung	-5.5176833	105.5205609	Bakauheni - Terbanggi Besar Toll Rd, Karya Mulya Sari, Candipuro, Lampung Selatan	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CHAdeMO	50	CCS (Type 2)	50							
-	Rest Area KM 116 A  Lampung Tengah	Lampung	-5.089284784	105.2117632	Rest Area KM 116 A  	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 116B Lampung Tengah	Lampung	-5.088972537	105.2127533	Rest Area KM 116B 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 163A Trans Sumatra	Lampung	-4.6821572	105.1914116	Rest Area KM 163A Tol Trans Sumatra, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Rest Area KM 20 A  Tol Bakauheni - Terbanggi Besar	Lampung	-5.726007368	105.6680073	Rest Area KM 20 A 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 20B Trans Sumatra	Lampung	-5.7255183	105.6683312	Rest Area KM 20B Tol Trans Sumatra, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CHAdeMO	25									
-	Rest Area KM 49B Tol Bakauheni - Terbanggi Besar	Lampung	-5.516514894	105.5212514	Rest Area KM 49B Tol Bakauheni - Terbanggi Besar, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 87A Tol Bakauheni - Terbanggi Besar	Lampung	-5.319136324	105.2654714	Rest Area KM 87A Tol Bakauheni - Terbanggi Besar, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 87B Trans Sumatra	Lampung	-5.31871	105.26654	Rest Area KM 87 B	CCS (Type 2)	200													
-	SPKLU PLN 	Langsa	4.47233	97.9647	Jalan Raya Medan Banda Aceh	Type 2 (Tethered Connector) 	7	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN UP3 LANGSA	Langsa	4.471000772	97.96845186	Jl. Jenderal Ahmad Yani No.6, Gampong Jawa, Kec. Langsa Kota, Kota Langsa, Aceh 24375	CCS (Type 2)	100													
-	SPKLU PLN UP3 LHOKSEUMAWE	Lhokseumawe	5.16987	97.13449	Cunda Raya, Uteun Kot, Kec. Muara Dua, Kota Lhokseumawe, Aceh 24355	CCS (Type 2)	100	CCS (Type 2)	100	Type 2 (Tethered Connector) 	7									
-	SPKLU PLN ULP LUBUK LINGGAU	Lubuk Linggau	-3.277244353	102.8975832	Jl. Trans Sumatera Lahat - Lubuklinggau No.147, Watervang, Kec. Lubuk Linggau Tim. I, Kota Lubuklinggau, Sumatera Selatan 31625	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	PLN UP3 Madiun	Madiun	-7.634455528	111.5327867	PLN UP3 Madiun 	CCS (Type 2)	47	Type 2 (Tethered Connector) 	7											
-	Rest Area KM 626A	Madiun	-7.547839817	111.7580839	Pepe, Pajaran, Kec. Saradan, Kabupaten Madiun, Jawa Timur 63155	Type 2 (Tethered Connector) 	22	CCS (Type 2)	7	CCS (Type 2)	25	CHAdeMO	25							
-	Rest Area KM 626B	Madiun	-7.549570635	111.7575754	Jl. Raya Saradan No.16, Pepe, Pajaran, Kec. Saradan, Kabupaten Madiun, Jawa Timur 63155	Type 2 (Tethered Connector) 	22	CCS (Type 2)	7	CCS (Type 2)	25	CHAdeMO	25							
-	Rest Area KM 597B (Sawahan - Madiun)	Madiun Regency	-7.545728983	111.5082431	Rest Area KM 597B 	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22											
-	Candi Borobudur	Magelang	-7.6052756	110.2081285	Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah 56553	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Hyundai Magelang	Magelang	-7.49584633	110.2234161	Jl. Jend. Sudirman No.165, Tidar Sel., Kec. Magelang Sel., Kota Magelang, Jawa Tengah 56125	Type 2 (Socket Only)	7													
-	SPKLU PLN ULP Magelang Kota	Magelang	-7.464623256	110.2239563	PLN ULP Magelang Kota, 	Type 2 (Tethered Connector) 	7	CCS (Type 2)	30	CHAdeMO	30									
-	Rest Area KM 164B Tol Cipali	Majalengka Regency	-6.706646	108.225466	Rest Area KM 164B Tol Cikopo - Palimanan, 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25							
-	SPKLU Kantor PLN ULP Makale 	Makale 	-3.101955	119.854	Jl. Ampera No.48, Tondon Mamullu, Kec. Makale, Kabupaten Tana Toraja, Sulawesi Selatan 91817	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN UP3 Malang	Malang	-7.974106205	112.6301676	Pln Area Malang, Jl. Jenderal Basuki Rahmat, Klojen, Kec. Klojen, Kota Malang, Jawa Timur 65111	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	Rest Area "Travoy" KM 84A Pandaan Malang	Malang Regency	-7.8972234	112.6981326	Rest Area KM 84A Tol Pandaan -  Malang, 	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN ULP MALINAU	Malinau	3.5754479	116.6098067	 Malinau Kota, Malinau Regency, North Kalimantan 77554	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN Kawasan Megamas Manado	Manado	1.4863178	124.8338397	Area Food City, Megamas, Sulawesi, Wenang Sel., Kota Manado, Sulawesi Utara	CHAdeMO	25													
-	SPKLU PLN ULP MANADO SELATAN	Manado	1.471832	124.835035	North Sario, Sario, Manado City, North Sulawesi	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP Masamba	Masamba 	-2.550687	120.351873	Baliase, Masamba, North Luwu Regency, South Sulawesi 92917	Type 2 (Tethered Connector) 	22													
-	Rest Area "Travoy" KM 519B Solo Ngaw	Masaran	-7.480416072	110.9205214	Rest Area KM 519B 	CCS (Type 2)	50	CCS (Type 2)	50	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	25					
-	Rest Area KM 519A 	Masaran	-7.480903899	110.9189831	Rest Area KM 519A Masaran Sragen, 	CCS (Type 2)	50	CCS (Type 2)	50	CCS (Type 2)	50	CHAdeMO	50							
-	SPKLU MVP GRAND NATURA	Mataram	-8.568140678	116.1175234	Jl. Terusan Bung Hatta No.107, Monjok, Kec. Selaparang, Kota Mataram, Nusa Tenggara Bar. 83122	Type 2 (Tethered Connector) 	22													
-	SPKLU SANTIKA MATARAM	Mataram	-8.58250334	116.1077036	Jl. Langko, Gomong, Kec. Selaparang, Kota Mataram, Nusa Tenggara Bar.	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU LOMBOK EPICENTRUM MALL	Mataram City	-8.59452946	116.105142	Jl. Sriwijaya No.333, Punia, Kec. Mataram, Kota Mataram, Nusa Tenggara Bar. 83127	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	SPKLU Arista Power	Medan	3.607069328	98.66119048	Jl. T. Amir Hamzah No.10, RW.LK. 10, Sei Agul, BaratSei AgulMedan, Kota Medan, Sumatera Utara 20114	CCS (Type 2)	60													
-	SPKLU CityView	Medan	3.55929	98.68352	Jl. K. M. Adi Sucipto, Ruko no. D14 Lantai 2 Cityview Condominium, Suka Damai, Medan Polonia, Medan City, North Sumatra 20217	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU HVT Amir Hamzah	Medan	3.608172319	98.64904493	Jl. T. Amir Hamzah No.71, Helvetia Tim., Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20117	CCS (Type 2)	50													
-	SPKLU PLN HOME SMART MEDAN	Medan	3.590557119	98.65239044	Jl. Gatot Subroto No.102, Sei Putih Bar., Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118	CCS (Type 2)	25													
-	SPKLU PLN ROYAL SUMATERA MEDAN	Medan	3.521887208	98.64135726	Mangga, Medan City, North Sumatra	CCS (Type 2)	25													
-	SPKLU PLN UID SUMATRA UTARA	Medan	3.615363878	98.67229892	Martubung, Labuhan, Jl. KL. Yos Sudarso No.284, Glugur Kota, Kec. Medan Bar., Kota Medan, Sumatera Utara 20238	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22											
-	SPKLU Puspem Badung	Mengwi	-8.602435552	115.1804446	SPKLU Puspem Badung	CCS (Type 2)	200													
-	SPKLU PLN ULP MUNTOK	Mentok	-2.060107434	105.1668787	Daeng River, Mentok, West Bangka Regency, Bangka Belitung Islands 33351	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN UP3 MERAUKE	Merauke 	-8.482759	140.389728	Jl. Trikora No.1, Maro, Kec. Merauke, Kabupaten Merauke, Papua Selatan 99614	Type 2 (Tethered Connector) 	7													
-	Rest Area KM 234 A	Mesuji Regency	-4.08116046	105.1586595	Rest Area KM 234A 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU UP3 Meulaboh	Meulaboh	4.152199364	96.12984007	Jl Swadaya,Drien Rampak	CCS (Type 2)	50													
-	SPKLU PLN ULP Muara Teweh 	Muara teweh 	-0.9631611	114.8938738	Jl. Beringin No.5, Lanjas, Kec. Teweh Tengah, Kabupaten Barito Utara, Kalimantan Tengah 73814	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP NABIRE KOTA	Nabire 	-3.3621702	135.5012025	Oyehe, Nabire, Nabire Regency, Central Papua 98811	CHAdeMO	25													
-	SPKLU PLN UP3 NABIRE	Nabire 	-3.378911	135.4607	JL. CH. Martatiahahu, Kalibobo, Distrik Nabire, Kabupaten Nabire, Papua Tengah 98818	Type 2 (Tethered Connector) 	7													
-	Rest Area "Travoy" KM 575A Solo Ngawi	Ngawi Regency	-7.408684375	111.3818683	Rest Area KM 575A Solo Ngawi 	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22					
-	Rest Area KM 56 A  Tol Palembang - Prabumulih	Ogan Ilir Regency	-3.439786749	104.4616042	Rest Area KM 56 A	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 56B Tol Palembang  - Prabumulih	Ogan Ilir Regency	-3.439043668	104.4603104	Rest Area KM 56B Tol Palembang  - Prabumulih, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 269B Tol Bakauheni - Kayu Agung	Ogan Komering Ilir	-3.8109502	105.0942935	Rest Area KM 269B 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Rest Area KM 277A Tol Bakauheni - Kayu Agung	Ogan Komering Ilir	-3.7466171	105.052494	Rest Area KM 277A Tol Bakauheni - Kayu Agung, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Rest Area KM 306B	Ogan Komering Ilir Regency	-3.511343614	104.9420745	Rest Area KM 306B	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22											
-	Rest Area KM 306B	Ogan Komering Ilir Regency	-3.51153637	104.9420745	Rest Area KM 306B 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200											
-	Rest Area KM 311A	Ogan Komering Ilir Regency	-3.474701205	104.9238324	Rest Area KM 311A	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22											
-	SPKLU Hausnummer 11	Padang	-0.95313366	100.3551979	Jl. Diponegoro No.11, Belakang Tangsi, Kec. Padang Bar., Kota Padang, Sumatera Barat	CCS (Type 2)	200													
-	SPKLU PLN UIW SUMBAR	Padang	-0.945727309	100.3719716	Jl. Dr. Wahidin No.8, Sawahan, Kec. Padang Tim., Kota Padang, Sumatera Barat 25171	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	SPKLU UNAND	Padang	-0.917583612	100.4577645	Jl. Lingkar Universitas Andalas, Limau Manis, Kec. Pauh, Kota Padang, Sumatera Barat 25176	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN UP3 PADANGSIDIMPUAN	Padang Sidempuan	1.403780478	99.27917729	Jl. Raja Inal Siregar No.11A, Batunadua Jae, Kec. Padangsidimpuan Batunadua, Kota Padang Sidempuan, Sumatera Utara 22733	CCS (Type 2)	30	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN Palangkaraya	Palangkaraya	-1.857594	114.6497205	Jl. Ahmad Yani No.10d, Langkai, Kec. Pahandut, Kota Palangka Raya, Kalimantan Tengah 74874, Indonesia	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP Palangkaraya Barat 	Palangkaraya	-2.181105	113.886637	Bukit Tunggal, Jekan Raya, Palangka Raya City, Central Kalimantan 74874	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP Palangkaraya Timur	Palangkaraya	-2.206518	113.922092	Jl. Ahmad Yani, Langkai, Kec. Jekan Raya, Kota Palangka Raya, Kalimantan Tengah 74874	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN S2JB Demang	Palembang	-2.98244	104.7245	JL Demang Lebar Daun  No 170	CCS (Type 2)	30	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60									
-	SPKLU PLN ULP Palopo 	Palopo	-2.996072	120.188942	Jl. Veteran, Tomarundung, Kec. Wara Bar., Kota Palopo, Sulawesi Selatan 91913	CCS (Type 2)	50													
-	Wuling Kumala Palopo	Palopo	-3.019137	120.208915	Jl. Jenderal Sudirman No.189, Binturu, Kec. Wara Sel., Kota Palopo, Sulawesi Selatan 91911, Indonesia	Type 2 (Tethered Connector) 	7													
-	Kantor Gubernur Sulawesi Tengah 	Palu 	-0.8906478	119.8705087	Jl. Sam Ratulangi No.101, Besusu Bar., Kec. Palu Tim., Kota Palu, Sulawesi Tengah 94118, Indonesia	CCS (Type 2)	30													
-	SPKLU PLN UP3 Palu 	Palu 	-0.901922	119.878861	Jl. R.A. Kartini No.26, Lolu Sel., Kec. Palu Sel., Kota Palu, Sulawesi Tengah 94111	CHAdeMO	60													
-	SPKLU PLN UP3 PAMEKASAN	Pamekasan	-7.16132139	113.4923057	Jl. Jokotole No.127A, Murleke, Barurambat Tim., Kec. Pademawu, Kabupaten Pamekasan, Jawa Timur 69321	CCS (Type 2)	40	CHAdeMO	40	Type 2 (Tethered Connector) 	22									
-	SPKLU Hotel SUN IN Pangandaran	Pangandaran	-7.701126547	108.6583687	Jl. Kidang Pananjung No.199, Pangandaran, Kec. Pangandaran, Kab. Pangandaran, Jawa Barat 46396	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN HOTEL Grand Palma Pangandaran	Pangandaran	-7.704419568	108.6564402	Pangandaran, Pangandaran Regency, West Java	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP PANGANDARAN	Pangandaran	-7.683848	108.657835	JL Banjar	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO										
-	SPKLU The Allure Vilas Pangandaran	Pangandaran	-7.68449006	108.6383725	Kawasan, Jl. Grand Pangandaran No.Kav.15, Wonoharjo, Kec. Pangandaran, Kab. Pangandaran, Jawa Barat 46396	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP PANGURURAN	Pangururan	2.607809499	98.69571967	Jl Kejaksaan ,Kabupaten Samosir	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP PARAPAT	Parapat	2.6688	98.94296	Jl Bangun Dolok No 14	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP Parigi 	Parigi 	-0.81642	120.1730971	 Maesa, Parigi, Parigi Moutong Regency, Central Sulawesi 94471	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP Pasangkayu	Pasangkayu	-1.172335	119.370561	Jl. Moh. Hatta, Pasangkayu, Kec. Pasangkayu, Kab. Pasangkayu, Sulawesi Barat 91571	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP PASIR PANGARAIAN	Pasir Pengaraian	0.862978245	100.2969415	Jl. Koperasi No.3, Pasir Pengaraian, Kec. Rambah, Kabupaten Rokan Hulu, Riau 28558	CCS (Type 2)	30													
-	Rest Area "Travoy" KM 66A Pandaan Malang	Pasuruan	-7.743707922	112.7183439	Rest Area KM 66A Tol Pandaan- Malang, 	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50									
-	Rest Area KM 792B Gempol Pasuruan	Pasuruan	-7.655518463	112.8547139	Rest Area KM 792B Tol Gempol - Pasuruan 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50							
-	Rest Area "Travoy" KM 66B Pandaan Malang	Pasuruan 	-7.74393373	112.7167404	Rest Area KM 66B 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50							
-	Rest Area "Travoy" KM 792A Gempol Pasuruan	Pasuruan 	-7.65294276	112.8540844	Rest Area KM 792A Tol Gempol - Pasuruan, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50							
-	SPKLU PLN UP3 Payakumbuh	Payakumbuh	-0.224642275	100.6313819	Jl. Soekarno - Hatta No.48, Daya Bangun, Kec. Payakumbuh Bar., Kota Payakumbuh, Sumatera Barat 26219	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	Rest Area 338A Pekalongan	Pekalongan	-6.948322831	109.6696962	Sawah, Pegandon, Kec. Karangdadap, Kabupaten Pekalongan, Jawa Tengah	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50									
-	SPKLU Kantor Gubernur Provinsi Riau	Pekanbaru	0.51666333	101.4462313	Jl. Jend. Sudirman No.460, Jadirejo, Kec. Sukajadi, Kota Pekanbaru, Riau 28121	CCS (Type 2)	200													
-	SPKLU PLN ICON + SBU SBT	Pekanbaru	0.453270109	101.4185475	Arengka Atas Jl. Soekarno - Hatta, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28253	CCS (Type 2)	30													
-	SPKLU PLN RIAU	Pekanbaru	0.501916038	101.4099888	Jl. Tuanku Tambusai, Labuh Baru Bar., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN UP3 PEKANBARU	Pekanbaru	0.53607	101.45096	JL DR Setia Budhi No 57	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22	CHAdeMO	50									
-	SPKLU PLN UP3 PEMATANGSIANTAR	Pematang Siantar	2.957198087	99.05853454	Jl. Kapten M.H. Sitorus No.1, Proklamasi, Kec. Siantar Bar., Kota Pematang Siantar, Sumatera Utara 21117	CCS (Type 2)	30	CHAdeMO	30											
-	SPKLU PLN IKN 1	Penajam Paser	-0.971612641	116.7124716	Pemaluan, Kec. Sepaku, Kabupaten Penajam Paser Utara, Kalimantan Timur	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP PERAWANG	Perawang	0.668565168	101.5888788	M Jl. Moh. Ali, Perawang Bar., Kec. Tualang, Kabupaten Siak, Riau 28685	CCS (Type 2)	30													
-	Rest Area KM 819A  Tol Pasuruan Probolinggo  	Probolinggo Regency	-7.747683743	113.0708559	Rest Area KM 819A  Tol Pasuruanâ€“Probolinggo  Pilang Kacir, Tanjungrejo, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Socket Only)	22									
-	SPKLU PLN ULP Pulang Pisau 	Pulang Pisau 	-2.753738	114.257067	Jl. Tingang Menteng No.70, Pulang Pisau, Kec. Kahayan Hilir, Kabupaten Pulang Pisau, Kalimantan Tengah 73564	Type 2 (Tethered Connector) 	22													
-	Rest Area 88A Cipularang	Purwakarta	-6.6021046	107.4274361	Rest Area 88A 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	50	CCS (Type 2)	100							
-	Rest Area 88B Cipularang	Purwakarta	-6.6034894	107.4240067	Rest Area 88B 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	60	CCS (Type 2)	50	CCS (Type 2)	100					
-	Rest Area KM 72B Cipularang	Purwakarta	-6.468474	107.444404	Rest Area KM 72B 	CCS (Type 2)	47	CCS (Type 2)	25											
-	SPKLU UP3 Purwakarta	Purwakarta	-6.5546225	107.4457311	Jl. Singawinata, Nagri Tengah, Kec. Purwakarta	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP PURWOREJO	Purworejo	-7.713135231	110.0117693	Jl. A. Yani, Kedungputri, Baledono, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN ULP RANTAUPRAPAT	Rantauprapat	2.1062	99.82493	Jl. Lintas Sumatera, Rantauprapat, Kec. Rantau Utara, Kab. Labuhanbatu, Sumatera Utara 21411	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN KP SEI PAKNING	Riau	1.36012214	102.1565679	Sungai Selari, Kec. Bukit Batu, Kabupaten Bengkalis, Riau	CCS (Type 2)	30													
-	SPKLU PLN ULP BENGKALIS	Riau	1.475754223	102.1213568	Wonosari, Bengkalis Sub-District, Bengkalis Regency	CCS (Type 2)	30													
-	SPKLU PLN ULP Bagan Siapi Api	Riau	2.158027295	100.8100787	Jl. Pahlawan, Bagan Tim., Kec. Bangko, Kabupaten Rokan Hilir,	CCS (Type 2)	30													
-	SPKLU PLN ULP DURI	Riau	1.278433998	101.1821133	Jl. Hangtuah, Air Jamban, Kec. Mandau, Kabupaten Bengkalis, Riau 28784	CCS (Type 2)	30													
-	SPKLU PLN ULP SIAK SRI INDRAPURA	Riau	0.800296144	102.0436495	Jl. Sultan Syarif Kasim No.41, Kp. Dalam, Kec. Siak, Kabupaten Siak, Riau 28773	CCS (Type 2)	30													
-	SPKLU POSKO YANTEK BELILES	Riau	-0.536908564	102.4159359	Jl. Lintas Sumatera, Pangkalan Kasai, Kec. Seberida, Kabupaten Indragiri Hulu, Riau 29351	CCS (Type 2)	30													
-	SPKLU PLN ULP RUTENG	Ruteng 	-8.6091056	120.4677881	Mbaumuku, Langke Rembong, Manggarai Regency, East Nusa Tenggara 86511	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP Sabang	Sabang	5.875100969	95.32805095	Aneuk Laot, Sukakarya, Kota Sabang, Aceh 24416	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP SAMALANGA	Samalanga	5.194785832	96.36713304	Jl. Matang-Samalanga, Meunasah Lueng, Kec. Samalanga, Kabupaten Bireuen, Aceh	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP Sampit	Sampit 	-2.537266	112.945341	Jl. Cut Nyak Dien, Mentawa Baru Hulu, Kec. Mentawa Baru Ketapang, Kabupaten Kotawaringin Timur, Kalimantan Tengah 74312	CCS (Type 2)	30													
-	Balai Kota Semarang	Semarang	-6.9822478	110.4125149	Balai Kota Semarang 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200											
-	Rest Area KM 456B Pendopo	Semarang	-7.326975275	110.5313524	Jl. Tol Semarang - Solo, Baok, Ujung-Ujung, Kec. Pabelan, Kabupaten Semarang, Jawa Tengah 50771	CCS (Type 2)	120	CHAdeMO	120	Type 2 (Tethered Connector) 	22									
-	SPKLU Astra Rest Area KM 456 A	Semarang	-7.327100126	110.532194	Jl. Tol Semarang - Solo, Baok, Ujung-Ujung, Kec. Pabelan, Kabupaten Semarang, Jawa Tengah 50771	CCS (Type 2)	120	CHAdeMO	120	Type 2 (Tethered Connector) 	22	CCS (Type 2)	30							
-	SPKLU PLN UID Jawa Tengah & DI Yogyakarta	Semarang	-7.0304215	110.4173686	PLN UID Jawa Tengah 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60	CCS (Type 2)	100							
-	SPKLU Rest Area KM 439 A	Semarang	-7.210528795	110.44981	Jl. Tol Semarang - Solo No.KM. 439A, Kenongo, Lemahireng, Kec. Bawen, Kabupaten Semarang, Jawa Tengah	Type 2 (Tethered Connector) 	7													
-	SPKLU UP3 Semarang	Semarang	-6.9768116	110.4160735	PLN UP3 Semarang 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200											
-	Rest Area KM 424 B  Semarang	Semarang City	-7.017727183	110.3962463	Bendan Duwur, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50235	CCS (Type 2)	50	CHAdeMO	50											
-	Rest Area KM 429 A Semarang Solo	Semarang Regency	-7.129666971	110.423945	Rest Area KM 429A ,Tol Ungaran - Bawen	CCS (Type 2)	50	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22	Type 2 (Tethered Connector) 	22							
-	SPKLU PLN SEPASO	Sepaso 	0.756138	117.560965	Sepaso, Bengalon, East Kutai Regency, East Kalimantan 75618	Type 2 (Tethered Connector) 	7													
-	Hyundai Serang	Serang	-6.1504076	106.158768	Kabupaten, Jl. Raya Serang - Pandeglang, Tembong, Kec. Cipocok Jaya	Type 2 (Tethered Connector) 	7													
-	Kawasan Pusat Pemerintahan Provinsi Banten (KP3B)	Serang	-6.1736953	106.1565418	Kawasan Pusat Pemerintahan Provinsi Banten (KP3B) 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	SPKLU ULP Cikande	Serang	-6.1750297	106.3374558	PLN ULP Cikande, 	CCS (Type 2)	200													
-	SPKLU UP3 Banten Utara	Serang	-6.1158198	106.1530164	Jl. Pangeran Diponegoro No.depan, Kotabaru, Kec. Serang	Type 2 (Tethered Connector) 	7													
-	Rest Area KM 68A Tol Tangerang - Merak	Serang City	-6.133278	106.204925	Rest Area KM 68A Tol Tangerang - Merak, 	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	200	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	7			
-	Rest Area KM 68B  Tol Merak - Jakarta	Serang City	-6.131316	106.204289	Rest Area KM 68B Tol Merak - Jakarta 	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	30	CHAdeMO	30							
-	SPKLU PLN HILLPARK SIBOLANGIT	Sibolangit	3.281393961	98.55529804	Jl. Jamin Ginting, Sikeben, Kec. Sibolangit, Kabupaten Deli Serdang, Sumatera Utara 20357	CCS (Type 2)	25													
-	Rest Area KM 754A Surabaya Gempol	Sidoarjo Regency	-7.425763937	112.6937277	Rest Area KM 754A 	CCS (Type 2)	60													
-	SPKLU PLN UP3 SIGLI	Sigli	5.380046094	95.95560915	Blang Asan, Kota Sigli, Pidie Regency, Aceh 24114	CCS (Type 2)	25	Type 2 (Tethered Connector) 	7											
-	PLN (UP3) Situbondo	Situbondo	-7.712554012	113.9971792	PLN UP3 Situbondo, 	CCS (Type 2)	100													
-	Rest Area Utama Raya Situbondo	Situbondo Regency	-7.724071	113.620313	Rest Area Utama Raya Situbondo, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN UP3 SOLOK	Solok	-0.799730049	100.6525491	JL Profesor Dr. Hamka, No. 81, 27314, Solok, 36124	CCS (Type 2)	24	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP SORONG KOTA	Sorong	-0.884776	131.2844418	South Remu, Sorong Manoi, Sorong City, Southwest Papua 98412	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN UP3 SORONG	Sorong	-0.878976	131.26218	Klaligi, Sorong Manoi, Sorong City, Southwest Papua 98412	CHAdeMO	60													
-	SPKLU ULP AIMAS	Sorong	-0.997039	131.345815	Klamalu, Distrik Mariat, Kabupaten Sorong, Papua Barat Daya 98416	Type 2 (Tethered Connector) 	22													
-	Rest Area KM 101B Cipali	Subang	-6.5093091	107.7180316	Rest Area KM 101B Tol Cikopo - Palimanan, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200											
-	SPKLU PLN UP3 SUBULUSSALAM	Subulussalam	2.630554988	98.01867914	Jl. Teuku Umar No.299, Penanggalan, Kec. Penanggalan, Kota Subulussalam, Aceh 24783	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22											
-	Hyundai Sukabumi	Sukabumi	-6.9560533	106.9092227	Jl. Pelabuhan II No.575, Cipanengah, Kec. Lembursitu	Type 2 (Tethered Connector) 	7													
-	SPKLU ULP Cibadak	Sukabumi	-6.8964237	106.8193096	Jl. Raya Karang Tengah No.427, Karangtengah, Kec. Cibadak	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Cicurug	Sukabumi	-6.799674	106.7754224	Jl. Siliwangi, Nyangkowek, Kec. Cicurug	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Cikembar	Sukabumi	-6.9512732	106.7694665	Sukamulya, Cikembar	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Pelabuhan Ratu	Sukabumi	-6.9870175	106.5556374	Jl. Bhayangkara No.11, Pelabuhanratu, Kec. Pelabuhanratu	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Sukabumi	Sukabumi	-6.9203307	106.9321026	SPKLU ULP Sukabumi 	Type 2 (Tethered Connector) 	22													
-	SPKLU ULP Sukaraja	Sukabumi	-6.9175628	106.9651593	Jl. Raya Sukaraja No.200, Pasirhalang, Kec. Sukaraja	Type 2 (Tethered Connector) 	22													
-	SPKLU UP3 Sukabumi	Sukabumi	-6.9133073	106.9326547	Selabatu, Cikole	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN  ULP Stabat	Sumatra Utara	3.796462419	98.44198057	Jl. Proklamasi, Kwala Bingai, Kec. Stabat, Kabupaten Langkat, Sumatera Utara	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN UP3 SIBOLGA	Sumatra Utara	1.744219564	98.77954821	Jl. Dr. Ferdinand Lumban Tobing No.20, Huta Tonga Tonga, Kec. Sibolga Utara, Kota Sibolga, Sumatera Utara	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22											
-	SPKLU MAMULI SUMBA	Sumba 	-9.6549089	120.2600388	Jl. Eltari, Matawai, Kec. Kota Waingapu, Kabupaten Sumba Timur, Nusa Tenggara Tim.	CHAdeMO	60													
-	SPKLU PLN KANTOR JAGA MELOLO	Sumba 	-9.8819578	120.6601762	Lumbukore, Umalulu, East Sumba Regency, East Nusa Tenggara	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP SUMBA JAYA	Sumba 	-9.4263747	119.2356823	Jl. Yos Sudarso No.10, Radamata, Kec. Kota Tambolaka, Kabupaten Sumba Barat Daya, Nusa Tenggara Tim. 87255	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN UP3 SUMBA	Sumba 	-9.648229	120.261506	Jl. Ahmad Yani No.16, Matawai, Kec. Kota Waingapu, Kabupaten Sumba Timur, Nusa Tenggara Tim.	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP ALAS	Sumbawa	-8.5138288	116.9935097	 Dalam, Alas, Sumbawa Regency, West Nusa Tenggara 84353	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP TALIWANG	Sumbawa	-8.744276	116.838389	Jl. Sutan Syahrir, Bugis, Kec. Taliwang, Kabupaten Sumbawa Barat, Nusa Tenggara Bar. 84455	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN UP3 SUMBAWA	Sumbawa	-8.4992216	117.4266025	Jalan Setiabudi No.18, Seketeng, Kec. Sumbawa, Kabupaten Sumbawa, Nusa Tenggara Bar. 84313	CHAdeMO	25													
-	SPKLU PLN UP3 SUMEDANG	Sumedang	-6.837553043	107.9166526	Jl. Prabu Gajah Agung, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP SUMENEP	Sumenep	-7.013524565	113.8694795	Jl. Urip Sumoharja, Mastasek, Pabian, Kec. Kota Sumenep, Kabupaten Sumenep, Jawa Timur 69417	CCS (Type 2)	40	CHAdeMO	40	Type 2 (Tethered Connector) 	22									
-	PLN ULP Embong Wungu	Surabaya	-7.281337254	112.7399192	PLN ULP Embong Wungu 	CCS (Type 2)	25	CHAdeMO	25											
-	PLN UP2 Jawa Timur	Surabaya	-7.265742136	112.7432108	Jl. Embong Wungu No.4, Embong Kaliasin, 	CCS (Type 2)	100													
-	WTC Surabaya Mall	Surabaya	-7.262770662	112.7480466	WTC Surabaya Mall 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22									
-	SPKLU UP3 Surakarta	Surakarta	-7.562343	110.798072	PLN UP3 Surakarta 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100	CCS (Type 2)	25	CHAdeMO	25							
-	Wisma PLN Bedugul	Tabanan Regency	-8.268358401	115.1650824	Wisma PLN Bedugul 	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN ULP TAKENGON	Takengon	4.632989837	96.84268574	Jl Lebe Kader No 89	CCS (Type 2)	30													
-	SPKLU PLN ULP Kuala Kurun 	Tampang Tumbang 	-1.109783	113.870914	Tampang Tumbang Anjir, Kurun, Gunung MAS Regency, Central Kalimantan 74571	Type 2 (Tethered Connector) 	22													
-	Aeon Mall BSD	Tangerang	-6.3053252	106.6435146	Aeon Mall BSD, 	CCS (Type 2)	25	CHAdeMO	25											
-	Aeropolis Apartment	Tangerang	-6.1439707	106.6313091	Jl. Marsekal Suryadarma, RT.004/RW.008, Neglasari, Kec. Neglasari	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25									
-	Hyundai BSD City	Tangerang	-6.2883461	106.6462803	Jl. BSD Grand Boulevard Utara Kavling Commercial De Park Lot II. 18A, Lengkong Kulon, Kec. Pagedangan	Type 2 (Tethered Connector) 	7													
-	Hyundai Bintaro	Tangerang	-6.2730188	106.6985349	Jl. CBD No.B-03, Parigi, Kec. Pd. Aren	Type 2 (Tethered Connector) 	7													
-	Hyundai Summarecon Serpong	Tangerang	-6.240494	106.6286493	Jl. Gading Serpong Boulevard No.1, Pakulonan Bar., Kec. Klp. Dua	Type 2 (Tethered Connector) 	7													
-	Mall Ciputra Tangerang	Tangerang	-6.2610689	106.5249494	Mall Ciputra Tangerang 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Polresta Tangerang	Tangerang	-6.272095094	106.4824082	Polresta Tangerang 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	7									
-	Rest Area KM 13A Pinang	Tangerang	-6.2143381	106.6823986	Rest Area KM 13A Tol Jakarta - Merak, 	CCS (Type 2)	60													
-	Rest Area KM 43A Tol Jakarta - Merak	Tangerang	-6.193875291	106.4254662	Rest Area KM 43A Tol Jakarta - Merak, 	CCS (Type 2)	200	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	7							
-	SPKLU UID Banten	Tangerang	-6.1844598	106.6428592	SPKLU UID Banten 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50									
-	SPKLU UP3 Cikupa	Tangerang	-6.2240405	106.5035167	17, Jl. Raya Serang No.KM, RW.5, Cikupa, Kec. Cikupa	Type 2 (Tethered Connector) 	7													
-	SPKLU UP3 Kebon Jeruk	Tangerang	-6.2342855	106.7382614	PLN  UP3 Kebon Jeruk 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60									
-	Starbucks Metland Cyber City	Tangerang	-6.197891943	106.7036492	Jl Metland. Pd bahar Kec karang tengah	Type 2 (Socket Only)	22													
-	Tangcity Mall	Tangerang	-6.1939327	106.6341002	Jl. Jenderal Sudirman No.1, Cikokol, Kec. Tangerang	CCS (Type 2)	25	CHAdeMO	25											
-	Terrace 8 Suvarna Sutera	Tangerang	-6.1800072	106.4947473	Jl. Suvarna Utama No.33A, Wana Kerta, Kec. Sindang Jaya, Kabupaten Tangerang, Banten	Type 2 (Tethered Connector) 	7													
-	Hyundai Ciputat	Tangerang Selatan	-6.2958975	106.7651359	Jl. Ir H. Juanda No.76, Rempoa, Kec. Ciputat Timur	Type 2 (Tethered Connector) 	7													
-	Hyundai Serpong	Tangerang Selatan	-6.232799	106.6428692	Jalan Raya Serpong No.KM. 7 RW, Jl. Pd. Jagung No.32, Kec. Serpong Utara	Type 2 (Tethered Connector) 	7													
-	SPKLU Kantor Bupati Bulungan 	Tanjung Selor 	2.8399923	117.3974764	Tanjung Selor Hilir, Bulungan Regency, North Kalimantan	Type 2 (Tethered Connector) 	7													
-	SPKLU Kantor Gubernur Kaltara	Tanjung Selor 	2.8415737	117.3733253	Tanjung Selor Hilir, Bulungan Regency, North Kalimantan	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN UP3 Kaltara 	Tanjung Selor 	2.841129	117.400196	 Jl. H. Raju, Tj. Selor Hilir, Kec. Tj. Selor, Kabupaten Bulungan, Kalimantan Utara 77211	Type 2 (Tethered Connector) 	7													
-	PT PLN (Persero) UP3 Tasikmalaya	Tasikmalaya	-7.316106672	108.2308006	PT PLN (Persero) UP3 Tasikmalaya	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP TASIKMALAYA KOTA	Tasikmalaya	-7.327229234	108.2226296	Jl. Mayor Utarya No.28, RW.01, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46113	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22											
-	SPKLU PLN ULP Tebing Tinggi	Tebing Tinggi	3.33498	99.16298	Sri Padang, Kec. Rambutan, Kota Tebing Tinggi, Sumatera Utara 20998	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22									
-	Rest Area KM 275A Tol Trans Jawa	Tegal Regency	-6.932410142	109.1093448	Rest Area KM 275A, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50							
-	Rest Area KM 294B Tol Pejagan - Pemalang	Tegal Regency	-6.937191743	109.2729544	Rest Area KM 294B 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50							
-	Rest area KM 282B Tegal	Tegal Regency	-6.943099	109.17311	Rest area KM 282B Tegal, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50							
-	SPKLU PLN Polres KUTIM 	Teluk Lingga	0.5187635	117.6043892	Teluk Lingga, East Kutai Regency, East Kalimantan	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP TEMBILAHAN	Tembilahan	-0.319994961	103.1528481	HILIR Jl. Gn. Daek, Tembilahan Kota, Kec. Tembilahan, Kabupaten Indragiri Hilir, Riau 29214	CCS (Type 2)	30													
-	SPKLU Rest Area KM 65 B Pekanbaru-Dumai	Tengganau	1.111368575	101.2581864	Jl. Tol Pekanbaru - Dumai, Tengganau, Kec. Pinggir, Kabupaten Bengkalis, Riau 28784	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22									
-	SPKLU PLN UP3 TERNATE	Ternate	0.781597	127.3856347	Jl. Ahmad Yani No.40, Kota Baru, Kec. Ternate Tengah, Kota Ternate, Maluku Utara 97721	CHAdeMO	60													
-	SPKLU PLN ULP SOASIU TIDORE	Tidore	0.6678758	127.4476833	Tomagoba, Tidore, Tidore Kepulauan City, North Maluku	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN ULP TOMOHON	Tomohon	1.340546	124.83544	Jl. Raya Tomohon Jl. Kakaskasen, Talete Dua, Kec. Tomohon Tengah, Kota Tomohon, Sulawesi Utara	Type 2 (Tethered Connector) 	7													
-	Wuling Kumala Tomohon	Tomohon	13405841	1248352252	Jl. Raya Tomohon, Kakaskasen, Kec. Tomohon Utara, Kota Tomohon, Sulawesi Utara 95415	Type 2 (Tethered Connector) 	7													
-	SPKLU PLN ULP Tomoni 	Tomoni	-2.5009005	120.8027448	Jl. Mekar No.05, Balai Kembang, Kec. Mangkutana, Kabupaten Luwu Timur, Sulawesi Selatan 92973	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN  KP Topoyo	Topoyo 	-2.0635465	119.2931353	Topoyo, Mamuju Regency, West Sulawesi 91563	Type 2 (Tethered Connector) 	22													
-	Rest Area KM 172B Trans Sumatra	Tulang Bawang	-4.6056099	105.1818725	Rest Area KM 172B Tol Trans Sumatra, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50									
-	Rest Area KM 208A	Tulang Bawang Regency 	-4.296766726	105.1601395	Rest Area KM 208A Tol Terpeka	Type 2 (Tethered Connector) 	22													
-	SPKLU PLN Rest Area Tlogo KM 445 B	Tuntang	-7.258667882	110.4627277	Semarang - Solo Toll Rd, Boak, Delik, Tuntang, Semarang Regency, Central Java 50773	CCS (Type 2)	120	Type 2 (Tethered Connector) 	22											
-	Alun Alun Peliatan Ubud	Ubud	-8.517803	115.2689011	Alun Alun Peliatan Ubud	CCS (Type 2)	100													
-	Rest Area KM 215B Tol Terpeka	West Tulang Bawang Regency, 	-4.248869211	105.138668	Rest Area KM 215B Tol Terpeka	Type 2 (Tethered Connector) 	22													
-	Hotel Tentrem Yogayakarta	Yogyakarta	-7.773581419	110.368456	Jl. P. Mangkubumi No.72A, Cokrodiningratan, Kec. Jetis, 	CCS (Type 2)	50													
+2	SPKLU Mobile Anyer	Anyar	-6.05525899	105.9139062	Jl. Raya Anyer-Sirih No.20, Anyar, Kec. Anyar, Kabupaten Serang, Banten 42166	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+3	SPKLU AMIBELE ATAMBUA	Atambua	-9.1044813	124.8903816	Jl. Cut Nya Dien, Berdao, Kec. Atambua Bar., Kabupaten Belu, Nusa Tenggara Tim.	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
+4	SPKLU PLN ULP BAGAN BATU	Bagan Batu	1.6964	100.4059	Jalan Sunan Gunung Jati	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+5	SPKLU PLN ULP BAJAWA	Bajawa	-8.7880474	120.9712797	Bajawa, Ngada Regency, East Nusa Tenggara 86411	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+6	SPKLU PLN Ranting Balige	Balige	2.335574665	99.06253535	Jl. Dr. T.D. Pardede No.14	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+7	Dunia Barusa Banda ACEH (UFC)	Banda Aceh	5.541751638	95.3307284	Jl. DR. Mr. T. H Jl. Dr. Mr. Mohd Hasan No.8, Batoh, Kec. Lueng Bata, Kota Banda Aceh	CCS (Type 2)	150	CHAdeMO	150	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+8	SPKLU KORDA LAMNO	Banda Aceh	5.092404675	95.37165164	Unnamed Road,, Bak Paoh, Jaya, Kabupaten Aceh Jaya, Aceh 23657	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+9	SPKLU PLN (Persero) ULP Teunom	Banda Aceh	4.444631974	95.81320404	Panton, Teunom, Aceh Jaya Regency, Aceh 23653	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+10	SPKLU PLN UIW ACEH	Banda Aceh	5.56234	95.33449	Beurawe, Kec. Kuta Alam, Kota Banda Aceh, Aceh	CCS (Type 2)	100	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0	1/12/2025 4:30
+11	SPKLU PLN ULP CALANG	Banda Aceh	4.635916923	95.5823108	Bahagia, Krueng Sabee, Aceh Jaya Regency, Aceh 23655	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+12	SPKLU PLN ULP JANTHO	Banda Aceh	5.301784824	95.59806797	dekat, Jantho Makmur, Kec. Kota Jantho, Kabupaten Aceh Besar, Aceh 23951	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+13	SPKLU PLN ULP KUTACANE	Banda Aceh	3.480285901	97.81248746	Komplek PLN Kutacane, Jalan Guru Leman, Perapat Hulu, Kec. Babussalam, Kabupaten Aceh Tenggara, Aceh 24651	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+14	SPKLU PLN ULP Kuala Simpang	Banda Aceh	4.394562456	98.07690553	 Medang Ara, Karang Baru, Aceh Tamiang Regency, Aceh 	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+15	SPKLU PLN ULP PANTON LABU	Banda Aceh	5.115864016	97.45812278	Panton Labu City, Tanah Jambo Aye, North Aceh Regency	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+16	El's Coffee Roastery	Bandar Lampung	-5.393891692	105.2885858	Kalibalau Kencana, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122	CCS (Type 2)	200	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0	1/12/2025 4:30
+17	Novotel Lampung	Bandar Lampung	-5.440650947	105.2891222	Novotel Lampung (Starvo)	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+18	Hyundai Cihampelas	Bandung	-6.9066505	107.6046494	Jl. Cihampelas No.6, Tamansari, Kec. Bandung Timur	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+19	Hyundai Pasteur	Bandung	-6.8927049	107.5819782	Jl. Dr. Djunjunan No.165, Pajajaran, Kec. Cicendo	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+20	Ikea Kota Baru Parahyangan	Bandung	-6.867366254	107.4663144	Jl Parahyangan No 9 Cipendeuy Padalarang	Type 2 (Socket Only)	22		0		0		0		0		0		0	1/12/2025 4:30
+21	Rest Area KM 147A Cipularang	Bandung	-6.967814	107.681211	Rest Area KM 147A  Tol Cipularang, 	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
+22	Rest Area KM 149B	Bandung	-6.969083	107.703258	Rest Area KM 149B Tol Cipularang, 	CCS (Type 2)	50	CCS (Type 2)	25	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+23	SPKLU Balai Kota Bandung	Bandung	-6.911711	107.609513	Jl. Wastukencana No,2 Babakan Ciamis	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25		0		0		0		0		0	1/12/2025 4:30
+24	SPKLU Gedung Budaya Sabilulungan	Bandung	-7.020604248	107.5303089	Jl. Al-Fathu No.104, Pamekaran, Kec. Soreang, Kabupaten Bandung, Jawa Barat 40912	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+25	SPKLU ONE STOP CHARGING ST SURAPATI	Bandung	-6.899050655	107.6210081	Jl. Surapati No.36, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40122	CCS (Type 2)	100	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0	1/12/2025 4:30
+26	SPKLU PLN POSKO CIWIDEY	Bandung	-7.104377068	107.465925	Jl. Bhayangkara, Margamulya, Kec. Pasirjambu, Kabupaten Bandung, Jawa Barat 40972	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+27	SPKLU PLN ULP BANDUNG TIMUR	Bandung	-6.899360151	107.6412275	Jl. Khp Hasan Mustopa No.45, Neglasari, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40124	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+28	SPKLU UID Jawa Barat	Bandung	-6.9209934	107.6084364	Jl. Asia Afrika No.63, Braga, Kec. Sumur Bandung	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+29	SPKLU ULP Bandung Barat	Bandung	-6.9086507	107.5789747	Jl. LMU.Nurtanio No.117, Dungus Cariang, Kec. Andir	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+30	SPKLU ULP Bandung Utara	Bandung	-6.8790718	107.5973165	PLN ULP Bandung Utara 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	30	CHAdeMO	30	CCS (Type 1)	22	CCS (Type 2)	60	CHAdeMO	60		0	1/12/2025 4:30
+31	SPKLU ULP Braga Heritage	Bandung	-6.9201702	107.6098575	PLN ULP Braga Heritage 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200		0		0		0		0		0	1/12/2025 4:30
+32	SPKLU ULP Cililin	Bandung	-6.9479249	107.4670457	JL. Karang Tanjung, No. 1, Cililin, Cimahi, West Java, Singajaya, Cihampelas	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+33	SPKLU ULP Kopo	Bandung	-6.9338784	107.5714327	Jl. Holis No.312, Caringin, Kec. Bandung Barat	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+34	SPKLU ULP Lembang	Bandung	-6.818327	107.622015	Jl. Cijeruk, Lembang, Kec. Lembang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+35	SPKLU ULP Padalarang	Bandung	-6.8387967	107.4875331	Jl. Raya Purwakarta, Kertamulya, Kec. Padalarang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+36	SPKLU ULP Rajamandala	Bandung	-6.8331656	107.346814	Jl. Raya Rajamandala No.45, Mandalawangi, Kec. Cipatat	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+37	SPKLU UP3 Bandung	Bandung	-6.9489258	107.6117885	JL Soekarno Hatta No.436 Bandung	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	200		0		0		0	1/12/2025 4:30
+38	Spklu PLN BYD Arista	Bandung	-6.9386398	107.6759178	Jl. Soekarno-Hatta No.678, Cipamokolan, Kec. Rancasari, Kota Bandung, Jawa Barat 	CCS (Type 2)	60		0		0		0		0		0		0	1/12/2025 4:30
+39	SPKLU PLN UPK Bangka Belitung	Bangka Belitung	-2.077997811	106.1495644	Air Anyir, Merawang, Bangka Regency, Bangka Belitung Islands 33172	CCS (Type 2)	25		0		0		0		0		0		0	1/12/2025 4:30
+40	SPKLU PLN ULP BANGKINANG	Bangkinang	0.334724015	101.0208243	Langgini, Bangkinang, Kampar Regency, Riau 28463	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+41	SPKLU PLN ULP Banjar	Banjar	-7.3715469	108.5361313	SPKLU ULP Banjar	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+42	SPKLU UP3 Yogyakarta	Bantul	-7.8102234	110.4030417	PLN UP3 Yogyakarta, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60	CCS (Type 2)	100		0		0		0	1/12/2025 4:30
+43	SPKLU PLN RSUD Sangkulirang 	Banua Baru 	0.986952449	117.9756595	Banua Baru, East Kutai Regency, East Kalimantan	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+44	SPKLU ULP Purwokerto Kota	Banyumas	-7.4320898	109.2580048	SPKLU ULP Purwokerto Kota	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0		0		0	1/12/2025 4:30
+45	Rest Area KM 379A Batang	Batang	-6.9578905	110.0146189	Rest Area KM 379A Batang, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	100	CCS (Type 2)	50	CCS (Type 2)	100	Type 2 (Tethered Connector) 	0		0	1/12/2025 4:30
+46	Hyundai Cibubur	Bekasi	-6.3796898	106.9230127	Jl. Alternatif Cibubur No.25, RT.002/RW.008, Jatisampurna, Kec. Jatisampurna	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+47	Hyundai Cikarang	Bekasi	-6.2907614	107.1509557	Jl. Industri Cikarang No.80, Pasirgombong, Kec. Cikarang Utara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+48	Hyundai Narogong	Bekasi	-6.2915674	106.9846553	Jl. Raya Narogong No.33, RT.010/RW.002, Bojong Rawalumbu, Kec. Rawalumbu	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+49	Hyundai Pondok Gede	Bekasi	-6.2836634	106.9279781	Jl. Raya Jati Makmur, RT.001/RW.008, Jatimakmur, Kec. Pd. Gede	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+50	Hyundai Summarecon Bekasi	Bekasi	-6.22584	107.0034372	Jl. Bulevar Timur, Blok VA No. 9 - 10, RT.003/RW.002, Marga Mulya, Kec. Bekasi Utara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+51	Rest Area 6B Cikampek	Bekasi	-6.2588297	106.9283015	Rest Area KM 6B Tol Cikampek, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+52	SPKLU ULP Bantar Gebang	Bekasi	-6.2672	107.01677	SPKLU ULP Bantar Gebang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+53	SPKLU ULP Bekasi Kota	Bekasi	-6.2391114	106.9934866	Jl. Ahmad Yani No.14, RT.004/RW.005, Marga Jaya, Kec. Bekasi Sel.	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+54	SPKLU ULP Cibitung	Bekasi	-6.2667863	107.1307335	Jl. Raya Fatahillah No.6, Kalijaya, Kec. Cikarang Bar.	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+55	SPKLU ULP Cikarang Kota	Bekasi	-6.3289369	107.1266884	SPKLU ULP Cikarang Kota	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+56	SPKLU ULP Lemahabang	Bekasi	-6.2834627	107.1683438	Jl. Ki Hajar Dewantara, Simpangan, Kec. Cikarang Utara	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+57	SPKLU ULP Medan Satria	Bekasi	-6.1982006	106.9746357	Jl. Sultan Agung No.353, RT.003/RW.006, Kali Baru, Kecamatan Medan Satria	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+58	SPKLU ULP Mustika Jaya	Bekasi	-6.3202761	107.0335135	Jl. Let. Jend. Suprapto, Cimuning, RT.003/RW.004, Cimuning, Kec. Mustika Jaya	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+59	SPKLU ULP Tambun	Bekasi	-6.2469305	107.0628338	Komplek Ruko De' Green, Jl. Raya Mangun Jaya No.1, Mangunjaya, Tambun Selatan	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+60	SPKLU UP3 Bekasi	Bekasi	-6.2527944	107.0104358	SPKLU UP3 Bekasi 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	30	CHAdeMO	30		0		0		0		0	1/12/2025 4:30
+61	SPKLU UP3 Cikarang	Bekasi	-6.3654911	107.1797088	Sukamahi, Central Cikarang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+62	SPKLU UP3 Belitung	Belitung	-2.7424213	107.6617185	Jl. A. Yani No.111, Perawas, Kec. Tj. Pandan	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+63	SPKLU Kantor PLN ULP Belopa 	Belopa 	-3.3840329	120.3697345	Tanamanai, Belopa, Luwu Regency, South Sulawesi 91994	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+64	SPKLU Rayon Teluk Segara	Bengkulu	-3.791164539	102.2500358	Jl. Prof. Dr. Hazairin No.8, Ps. Baru, Kec. Tlk. Segara, Kota Bengkulu, Bengkulu 28114	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+65	SPKLU PLN ULP BRASTAGI	Berastagi	3.18836	98.50805	Jalan Udara No 7	CCS (Type 2)	30	CHAdeMO	30		0		0		0		0		0	1/12/2025 4:30
+66	SPKLU EVC SM Tower 	Berau 	2.143849	117.497872	Gayam, Berau Regency, East Kalimantan	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+67	SPKLU PLN ULP BIAK KOTA	Biak	-1.172733	136.090716	Karang Mulia, Samofa, Biak Numfor Regency, Papua 98111	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+68	SPKLU PLN UP3 BIAK	Biak	-1.188414	136.092694	Jl. Yos Sudarso, Mandala, Kec. Biak Kota, Kabupaten Biak Numfor, Papua 98118	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+69	SPKLU PLN ULP BIMA KOTA	Bima	-8.45897	118.741624	Jl. Soekarno Hatta, RT.01/RW.01, Monggonao, Kec. Mpunda, Kab. Bima, Nusa Tenggara Bar. 84111, Indonesia	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+70	SPKLU PLN ULP SAPE	Bima	-8.5700198	118.9819167	Jl. Lintas Kaleo, Naru Bar., Kec. Sape, Kabupaten Bima, Nusa Tenggara Bar. 84182	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+71	SPKLU PLN ULP WOHA	Bima	-8.560073	118.697058	Bar., Rabakodo, Kec. Woha, Kabupaten Bima, Nusa Tenggara Bar. 84173	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+72	SPKLU PLN UP3 BINJAI	Binjai	3.614592675	98.49576248	Jl. Tengku Amir Hamzah No.37, Pahlawan, Kec. Binjai Utara, Kota Binjai, Sumatera Utara 20748	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+73	SPKLU PLN ULP BIREUEN	Bireuen	5.20422	96.71819	Jalan Raya Medan Banda Aceh	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+74	Balai Kota Bogor	Bogor	-6.5952177	106.7936935	Jl. Ir. H. Juanda No.10, RT.01/RW.01, Paledang, Kecamatan Bogor Tengah	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+75	Hyundai Sholeh Iskandar	Bogor	-6.5414305	106.7715143	Jl. Sholeh Iskandar No.Km. 8, Cibadak, Kec. Tanah Sereal	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+76	Hyundai Tajur	Bogor	-6.6299036	106.8246368	Jl. Raya Tajur No.91, RT.05/RW.04, Genteng, Kec. Bogor Timur	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+77	Rest Area KM 21B Jagorawi	Bogor	-6.4346495	106.8935908	Rest Area KM 21B Tol Jagorawi, 	CHAdeMO	50	CCS (Type 1)	50	CCS (Type 2)	50		0		0		0		0	1/12/2025 4:30
+78	Rest Area KM 38 B Jagorawi	Bogor	-6.576013668	106.8380773	Rest Area KM 38 B Jagorawi	CCS (Type 2)	120	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+79	SPKLU ULP Bogor Barat	Bogor	-6.5159599	106.756784	Kemang, Kec. Kemang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+80	SPKLU ULP Bogor Kota	Bogor	-6.5959222	106.7895474	Jl. Kapten Muslihat No.2	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100		0		0		0		0		0	1/12/2025 4:30
+81	SPKLU ULP Bojonggede	Bogor	-6.4773943	106.8037478	Jl. Raya Bojong Gede No.65, Bojong Baru, Kecamatan Bojonggede	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+82	SPKLU ULP Cibinong	Bogor	-6.4761708	106.8637099	Jl. Raya Mayor Oking Jaya Atmaja No.KM.2, Ciriung, Kec. Cibinong	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+83	SPKLU ULP Cipayung	Bogor	-6.6507646	106.8958328	Jl. Raya Puncak - Cianjur, Cipayung Datar, Kec. Megamendung	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+84	SPKLU ULP Citereup	Bogor	-6.4590345	106.8967956	Jalan Raya Cagak, Gn. Putri, Kec. Gn. Putri	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+85	SPKLU ULP Jasinga	Bogor	-6.5202418	106.4984819	Jl. Raya Cigudeg No.24, Bunar, Kec. Cigudeg	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+86	SPKLU ULP Jonggol	Bogor	-6.462196	107.059234	Jalan Letkol Murlin No 123, Kampung Menan Desa Jonggol, Sukamaju, Kec. Jonggol	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+87	SPKLU ULP Leuwiliang	Bogor	-6.5643502	106.6780479	Jalan Raya No.KM 17, Girimulya, Kec. Cibungbulang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+88	SPKLU UP3 Bogor	Bogor	-6.5720981	106.8085552	PLN UP3 Bogor, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+89	SPKLU UP3 Gunung Putri	Bogor	-6.4590781	106.8968094	Jl. Raya Cileungsi - Jonggol No.KM, RW.1, Cileungsi Kidul, Kec. Cileungsi	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+90	SPKLU Voltron	Bogor	-6.601420598	106.807129	Jl. Raya Pajajaran No.40, Tugu Kujang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16127	CCS	100	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+91	SPKLU PLN Kelurahan GN Elai	Bontang 	0.132604	117.475173	Satimpo, Bontang City, East Kalimantan	CHAdeMO	25		0		0		0		0		0		0	1/12/2025 4:30
+92	Rest Area KM 487A Semarang Solo	Boyolali	-7.52305869	110.6671029	Rest Area KM 487A 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+93	Rest Area KM 260 B Brebes	Brebes	-6.906415955	108.9831963	Cipugur, Banjaratma, Kec. Bulakamba, Kabupaten Brebes, Jawa Tengah 52253	CCS (Type 2)	120	CHAdeMO	120	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+94	SPKLU PLN UP3 MUARA BUNGO	Bungo	-1.486358972	102.1183368	Bungo Timur, Muaro Bungo, Bungo Regency, Jambi 37211	CCS (Type 2)	30	Type 2 (Tethered Connector) 	7		0		0		0		0		0	1/12/2025 4:30
+95	SPKLU PLN ULP Buntok 	Buntok 	-1.7168802	114.8484771	Buntok Kota, South Dusun, South Barito Regency, Central Kalimantan 73713	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+96	Hyundai Cianjur	Cianjur	-6.8097688	107.1505283	Jl. Raya Bandung No.115, Bojong	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+97	Kantor Pemda Cianjur	Cianjur	-6.8228902	107.1386342	Pamoyanan, Kec. Cianjur, Kabupaten Cianjur, Jawa Barat 43211	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+98	SPKLU PLN UP3 CIANJUR	Cianjur	-6.813676882	107.1368941	Kp.padarincang sukaharja, Palasari, Kec. Cipanas, Cianjur Regency, West Java 43253	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+99	SPKLU ULP Cimacan	Cianjur	-6.7138313	107.0226648	Jl. Loji, Cimacan, Kec. Cipanas, Kabupaten Cianjur, Jawa Barat 43253	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+100	SPKLU ULP Cipanas	Cianjur	-6.7347405	107.0416802	Jl. Raya Cipanas No.29, Cipanas, Kec. Cipanas	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+101	SPKLU ULP Ciranjang	Cianjur	-6.8135872	107.2516485	Jl. Raya Bandung No.123, Ciranjang, Kec. Ciranjang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+102	SPKLU UP3 Cianjur	Cianjur	-6.8136952	107.1371128	Jl. Dr. Muwardi No.165, Bojongherang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+103	SPKLU PLN UP3 CILACAP	Cilacap	-7.722942308	109.0115301	Jl. Brigjend. Katamso No.52, Cilacap, Sidanegara, Kec. Cilacap Tengah, Kabupaten Cilacap, Jawa Tengah 53223	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+104	Hyundai Cilegon	Cilegon	-6.0345587	106.0839142	Jl. Raya Serang No.2, Kedaleman, Kec. Cibeber	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+105	Pelabuhan Merak 	Cilegon	-5.935755	106.0000987	Pelabuhan Merak, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+106	SPKLU Rest Area KM 125 B Padalarang	Cimahi	-6.885795778	107.5202593	Cibeber, Cimahi Selatan, Cimahi City, West Java	CCS (Type 2)	120		0		0		0		0		0		0	1/12/2025 4:30
+107	SPKLU ULP Cimahi Selatan	Cimahi	-6.8986161	107.5541454	Jl. Mahar Martanegara, Cigugur Tengah, Kec. Cimahi Tengah	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+108	SPKLU ULP Prima Cibabat	Cimahi	-6.8757615	107.5448608	Jalan Jend. Amir Mahmud No.511, Karangmekar, Cimahi Tengah, Padasuka, Kec. Cimahi Tengah	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+109	SPKLU UP3 Cimahi	Cimahi	-6.8708585	107.5364378	Jl. Jend. H. Amir Machmud No.675, Padasuka, Kec. Cimahi Tengah	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+110	SPKLU PLN ULP CIPAYUNG	Cipayung	-6.650781987	106.8958595	Jl. Raya Puncak - Cianjur, Cipayung Datar, Kec. Megamendung, Kabupaten Bogor, Jawa Barat 16770	CCS (Type 2)	120	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+111	PT. PLN (Persero) UP3 Cirebon	Cirebon	-6.710961095	108.5403249	PT. PLN UP3 Cirebon 	CCS (Type 2)	120	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+112	Rest Area KM 207A Palikanci	Cirebon	-6.7755907	108.5629485	Rest Area KM 207A Tol Palikanci, 	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	50	CCS (Type 2)	50	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22		0	1/12/2025 4:30
+113	Rest Area KM 208B Palikanci	Cirebon	-6.7787407	108.5670858	Rest Area KM 208B Tol Palikanci, 	CCS (Type 2)	50	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	25		0		0		0	1/12/2025 4:30
+114	Rest Area KM 228A Kanci Pejagan	Cirebon	-6.8813312	108.7033791	Rest Area KM 228A Tol Kanci - Pejagan, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200		0		0		0		0		0	1/12/2025 4:30
+115	Rest Area KM 229B Kanci Pejagan	Cirebon	-6.8847187	108.7070833	Rest Area KM 229B Tol Kanci - Pejagan, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200		0		0		0		0		0	1/12/2025 4:30
+116	SPKLU PLN UP3 LUBUK PAKAM	Deli Serdang	3.546843665	98.86522852	Kw. Pemerintahan Deli Serdang, Jl. Medan - Tebing Tinggi, Perbarakan, Kec. Pagar Merbau, Kabupaten Deli Serdang, Sumatera Utara 20551	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+117	Dunkin Teuku Umar Dauh 	Denpasar	-8.681471571	115.1990721	Dunkin Teuku Umar Dauh  Jalan Teuku Umar no.161-259 	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+118	SPKLU Semawang Sanur	Denpasar	-8.70500588	115.2496179	SPKLU Semawang Sanur  Jl. Danau Poso no.27, Sanur 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+119	SPKLU Tohpati Denpasar	Denpasar	-8.635862306	115.2563189	SPKLU Tohpati Denpasar  Jalan Merak No.10, Kesiman Kertalangu	CCS (Type 2)	30	CHAdeMO	30	CCS (Type 2)	200		0		0		0		0	1/12/2025 4:30
+120	Hyundai Cimanggis	Depok	-6.3587289	106.859641	Jl. Raya Bogor No.18, Mekarsari, Kec. Cimanggis	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+121	Hyundai Margonda	Depok	-6.3808456	106.830795	Jl. Margonda Raya No.234-228, Kemiri Muka, Kecamatan Beji	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+122	SPKLU UIP JBB	Depok	-6.3437657	106.7884115	PLN UIP JBB, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+123	SPKLU ULP Cimanggis	Depok	-6.3757305	106.8635032	Jl. Raya Bogor No.18, RT.7/RW.5, Cisalak Ps., Kec. Cimanggis	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+124	SPKLU ULP Depok Kota	Depok	-6.3958509	106.836791	Jl. Sentosa Raya No.4, RT.11/RW.7, Mekar Jaya, Kec. Sukmajaya	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+125	SPKLU ULP Sawangan	Depok	-6.4122073	106.734798	Jl. Jkt - Bogor, Duren Mekar, Kec. Bojongsari	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+126	SPKLU UP3 Depok	Depok	-6.4183088	106.8266985	Grand Depok City, Jl. Kota Kembang Raya Jl. Boulevard Grand Depok City No.1, Kotakembang, Tirtajaya, Kec. Sukmajaya	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+127	SPKLU PLN UP3 DUMAI	Dumai	1.66978	101.44739	JL Jend Sudirman No 185b	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+128	SPKLU PLN ULP ENDE	Ende 	-8.8451142	121.6626432	Kel. Mautapaga, Ende Regency, East Nusa Tenggara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+129	Jalan Kiansantang	Garut	-7.217104545	107.9016429	Jalan Kiansantang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+130	Pemdopo garut	Garut	-7.217016384	107.9016308	Jalan Kiansantang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+131	SPKLU KP MALANGBONG	Garut	-7.060873585	108.0857948	Jl. Raya Bandrek-Malangbong, Sakawayana, Kec. Malangbong, Kabupaten Garut, Jawa Barat 44188	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+132	SPKLU PLN ULP GARUT KOTA	Garut	-7.194802422	107.8863304	Jl. Otista No.140A, Sukagalih, Kec. Tarogong Kidul, Kabupaten Garut, Jawa Barat 44151	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+133	SPKLU PLN ULP PAMEUNGPEUK	Garut	-7.646511023	107.7085672	Jl. Cilauteureun, Mancagahar, Kec. Pameungpeuk, Kabupaten Garut, Jawa Barat 44175	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+134	SPKLU ULP Limbangan	Garut	-7.0345331	107.9853104	SPKLU ULP Limbangan, Garut	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60		0		0		0		0		0	1/12/2025 4:30
+135	Rest Area KM 753 B Surabaya Gempol	Gempol	-7.417815848	112.6937081	Surabaya Gempol	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+136	SPKLU PLN UP 3 Gorontalo	Gorontalo 	0.575364	123.047793	Jl. Prof. DR. Jhon Aryo Katili, Paguyaman, Kec. Kota Tengah, Kota Gorontalo, Gorontalo 96128	CHAdeMO	60		0		0		0		0		0		0	1/12/2025 4:30
+137	SPKLU ULP Limboto	Gorontalo 	0.552943	123.060665	Wumialo, Gorontalo Regency, Gorontalo	CHAdeMO	25		0		0		0		0		0		0	1/12/2025 4:30
+138	Wuling Kumala Gorontalo	Gorontalo 	0.536442	123.060655	Jl. Nani Wartabone, Ipilo, Kec. Kota Tim., Kota Gorontalo, Gorontalo 96134	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+139	Rest Area TRAVOY KM 725A	Gresik	-7.378487	112.54568	Rest Area KM 725A 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100	CCS (Type 2)	100		0		0	1/12/2025 4:30
+140	SPKLU WINI	Humusu	-9.1855	124.4883315	 Humusu C, North Central Timor Regency, East Nusa Tenggara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+141	SPKLU PLN UP3 Renggat	Indragiri Hulu	-0.39185594	102.4368597	Jl. Batu Canai, Sungai Dawu, Kec. Rengat Bar., Kabupaten Indragiri Hulu, Riau 29351	CCS (Type 2)	200		0		0		0		0		0		0	1/12/2025 4:30
+142	Rest Area KM 130A Cipali	Indramayu	-6.5756634	107.9600189	Rest Area KM 130A 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	25		0		0	1/12/2025 4:30
+143	Ciputra Int. Puri Amsterdam Apartment	Jakarta Barat	-6.173003717	106.7309485	Kawasan Ciputra International	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+144	Ciputra Int. Tokopedia Care Offices	Jakarta Barat	-6.172920755	106.7303181	Jl. Lkr Luar Barat No.101	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+145	Hyundai Joglo	Jakarta Barat	-6.220748	106.7374952	Jl. H. Muchtar Raya No.28A, Joglo, Kec. Kembangan	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+146	Hyundai Kebon Jeruk	Jakarta Barat	-6.1740897	106.7652941	Jl. Panjang No.5, RT 10 RW 5, Kedoya Utara, Kec. Kb. Jeruk	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+147	Hyundai Lippo Mall Puri	Jakarta Barat	-6.1877124	106.7386449	Jl. Puri Indah Raya Puri Indah CBD, RT.3/RW.2, Kembangan Sel., Kec. Kembangan	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+148	KFC Jalan Panjang	Jakarta Barat	-6.2011736	106.7695513	Jl. Panjang Arteri Klp. Dua Raya, RW.2, Kb. Jeruk, Kec. Kb. Jeruk	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+149	Asuransi Ramayana Claim Center	Jakarta Pusat	-6.1692436	106.8189305	Asuransi Ramayana Claim Center 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+150	BTN Tower	Jakarta Pusat	-6.1672156	106.8199182	BTN Tower	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+151	Brilian Center	Jakarta Pusat	-6.2164352	106.8141387	Brilian Center	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+152	Graha BNI	Jakarta Pusat	-6.2034327	106.8212754	Jl. Jenderal Sudirman No.1, RT.10/RW.11, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+153	Hyundai Pramuka	Jakarta Pusat	-6.1920178	106.8667942	Jl. Pramuka No.137, RT.14/RW.5, Rawasari, Kec. Cemp. Putih	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+154	Hyundai Sawah Besar	Jakarta Pusat	-6.1601217	106.8228545	Jl. Sukarjo Wiryopranoto No.49, RT.4/RW.1, Maphar, Kec. Taman Sari	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+155	Kantor Kementrian BUMN	Jakarta Pusat	-6.1815606	106.8255342	Jl. Medan Merdeka Sel. No.13, RT.11/RW.2, Gambir, Kecamatan Gambir	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+156	Menara BNI	Jakarta Pusat	-6.2037346	106.803036	Menara BNI	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+157	Pool Damri Kemayoran	Jakarta Pusat	-6.1596592	106.8485294	Pool Damri Kemayoran	CCS (Type 2)	180		0		0		0		0		0		0	1/12/2025 4:30
+158	SPKLU UID Jakarta Raya	Jakarta Pusat	-6.1803576	106.8332266	PLN UID Jakarta Raya	Type 2 (Tethered Connector) 	22	CCS (Type 2)	87.5	CHAdeMO	62.5		0		0		0		0	1/12/2025 4:30
+159	SPKLU UP3 Cempaka Putih	Jakarta Pusat	-6.1813881	106.8753306	PLN UP3 Cempaka Putih	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+160	Aeon Mall Tanjung Barat	Jakarta Selatan	-6.3056357	106.840534	Aeon Mall Tanjung Barat 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+161	Hyundai Cilandak	Jakarta Selatan	-6.3081439	106.7810072	Jl. Karang Tengah Raya No.11D, RT.13/RW.4, Lb. Bulus, Kec. Cilandak	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+162	Hyundai Fatmawati	Jakarta Selatan	-6.2838682	106.7957317	Jl. RS. Fatmawati Raya No.29, RW.10, Cilandak Bar., Kec. Cilandak	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+163	Hyundai Lippo Plaza Kramat Jati	Jakarta Selatan	-6.271002	106.8680931	Lippo Plaza Kramat Jati (Lt. Ground Floor 58A,60, Jl. Raya Bogor No.Km.19, Kramat Jati	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+164	Hyundai Mampang	Jakarta Selatan	-6.2642398	106.8307592	Jl. Buncit Raya No.203, Jak sel, Kec. Mampang Prpt	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+165	Hyundai Pancoran	Jakarta Selatan	-6.24568	106.843288	Jl. Raya Pasar Minggu No.7, Pancoran, Kec. Pancoran	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+166	Hyundai Simprug	Jakarta Selatan	-6.2321374	106.7880386	Jl. Teuku Nyak Arief No.14, RW.2, Grogol Utara, Kec. Kby. Lama	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+167	Kantor Dinas Ketenagalistrikan ESDM	Jakarta Selatan	-6.2260424	106.8334783	Kantor Dinas Ketenagalistrikan ESDM 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	30	CHAdeMO	30		0		0		0		0	1/12/2025 4:30
+168	Kantor Pos Fatmawati	Jakarta Selatan	-6.2945288	106.7947741	Kantor Pos Fatmawati, 	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	7		0		0		0		0	1/12/2025 4:30
+169	L'Avenue Apartment	Jakarta Selatan	-6.2483075	106.8430738	L'Avenue Apartment	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+170	Plaza Mandiri	Jakarta Selatan	-6.224947	106.8145192	Plaza Mandiri	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+171	SPKLU 	Jakarta Selatan	-6.2406211	106.8033483	PLN Pusat	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	180		0		0	1/12/2025 4:30
+172	SPKLU Puslitbang	Jakarta Selatan	-6.2549923	106.8332787	SPKLU Puslitbang	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+173	SPKLU UP3 Bulungan	Jakarta Selatan	-6.2395213	106.7980413	PLN UP3 Bulungan 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22	CHAdeMO	24	CCS (Type 2)	24		0		0	1/12/2025 4:30
+174	SPKLU UP3 Lenteng Agung	Jakarta Selatan	-6.254105	106.83567	Jl. Lenteng Agung Raya No.5, RT.5/RW.2, Lenteng Agung, Kec. Jagakarsa	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+175	Shell Antasari	Jakarta Selatan	-6.256409399	106.8083342	Jl. Pangeran Antasari No.14, RW.1, Cipete Utara, Kec. Kby. Baru	CHAdeMO	50	CCS (Type 1)	50	CCS (Type 2)	50		0		0		0		0	1/12/2025 4:30
+176	Shell Pacific Place	Jakarta Selatan	-6.2248678	106.808052	Jl. Jend Sudirman KAV 52-53	CCS (Type 2)	11		0		0		0		0		0		0	1/12/2025 4:30
+177	Summitmas Tower 1	Jakarta Selatan	-6.2267105	106.8037055	Summitmas Tower 1	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+178	VOLTRON 	Jakarta Selatan	-6.225335883	106.8337264	Trinity Tower	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+179	Aeon Mall Jakarta Garden City	Jakarta Timur	-6.1721883	106.9522209	Jl. Jkt Garden City Boulevard No.1, RT.8/RW.6, Cakung Tim., Kec. Cakung	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+180	Hyundai DI Panjaitan	Jakarta Timur	-6.235475	106.8780931	Jl. DI. Panjaitan No.138, RT.15/RW.2, Cipinang Besar Sel., Kecamatan Jatinegara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+181	Hyundai Kalimalang	Jakarta Timur	-6.247918	106.9288992	Jl. Raya Kalimalang, Pd. Klp., Kec. Duren Sawit	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+182	Rest Area KM 10.6 A Jagorawi	Jakarta Timur	-6.3402071	106.8906501	Rest Area KM 10.6 A Tol Jagorawi, 	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+183	SPKLU UP3 Jatinegara	Jakarta Timur	-6.221296	106.868531	Jl. Jatinegara Timur No.75, RT.10/RW.2, Bali Mester, Kecamatan Jatinegara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+184	Taman Mini Indonesia Indah	Jakarta Timur	-6.3024459	106.8951559	Taman Mini Indonesia Indah	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+185	Wisma Indomobil	Jakarta Timur	-6.2424664	106.8636189	Wisma Indomobil 	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	7		0		0		0		0	1/12/2025 4:30
+186	Hyundai Kelapa Gading	Jakarta Utara	-6.154215	106.8938683	Plaza Kelapa Gading Ruko Blok A unit 31, 31A, 32, 32A	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+187	Hyundai Pegangsaan	Jakarta Utara	-6.1746077	106.9139163	Jl. Pegangsaan Indah Bar., RT.16/RW.21, Pegangsaan Dua, Kec. Klp. Gading	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+188	Hyundai Pluit	Jakarta Utara	-6.117983	106.7890265	Jl. Pluit Indah No.17, RW.6, Pluit, Kec. Penjaringan	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+189	Hyundai Sunter	Jakarta Utara	-6.1311887	106.8554854	Jl. Danau Sunter Barat Sunter No.7, RT.2/RW.7, Sunter Agung, Kec. Tj. Priok	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+190	Indomobil Nissan Datsun Kapuk	Jakarta Utara	-6.124932	106.7549648	Jl. Pantai Indah Selatan No.1, RT.2/RW.3, Kapuk Muara, Kec. Penjaringan	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+191	KFC Artha Gading	Jakarta Utara	-6.1471868	106.8973549	Jl. Artha Gading Sel. No.KAV.D, RT.3RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+192	SPKLU ULP Tanjung Priok	Jakarta Utara	-6.1213146	106.8930291	Jl. Yos Sudarso No.30, RT.19/RW.5, Sunter Jaya, Kec. Tj. Priok	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+193	SPKLU UP3 Bandengan	Jakarta Utara	-6.1364857	106.7971101	Jl. Bandengan Utara Raya No.79, RT.7/RW.16, Penjaringan, Kec. Penjaringan	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+194	Shell Pluit	Jakarta Utara	-6.1257	106.798439	Jl. Pluit Selatan Raya No.7, RT.7/RW.7, Penjaringan, Kec. Penjaringan	CHAdeMO	50	CCS (Type 1)	50	CCS (Type 2)	50		0		0		0		0	1/12/2025 4:30
+195	SPKLU PLN UP3 JAMBI	Jambi	-1.60746315	103.5925865	JL Urip Sumoharjo No 2,Kota Jambi	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22	CHAdeMO	0		0		0		0		0	1/12/2025 4:30
+196	SPKLU PLN UIW Papua & Papua Barat	Jayapura	-2.54288	140.702602	Jl. Ahmad Yani No.8, Gurabesi, Kec. Jayapura Utara, Kota Jayapura, Papua 99222	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
+197	SPKLU PLN UP3 JAYAPURA	Jayapura	-2.608644	140.6736638	Jl. Baru Ps. Lama Abepura No.313, Wai Mhorock, Kec. Abepura, Kota Jayapura, Papua 99225	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+198	SPKLU SAGA MALL ABEPUTRA	Jayapura	-2.6106043	140.6654499	Jl. Raya Abepura - Sentani No.12, Kota Baru, Kec. Abepura, Kota Jayapura, Papua 99351	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+199	Rest Area KM 695A Teras Melati	Jombang	-7.485149893	112.311234	Sawah, Kedung Mlati, Kec. Kesamben, Kabupaten Jombang, Jawa Timur 61484	CCS (Type 2)	120	CHAdeMO	120	CCS (Type 2)	22		0		0		0		0	1/12/2025 4:30
+200	Rest Area Km 678B Tol Mojokerto-Kertosono	Jombang	-7.536054522	112.1756795	Rest Area Km 678B Tol Mojokerto-Kertosono 	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+201	PLN ULP Mengwi  	Kabupaten Bandung	-8.583551133	115.1812569	PLN ULP Mengwi 	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+202	SPKLU BNI Crea Nusadua	Kabupaten Bandung	-8.787120047	115.2062311	Jl. Bypass Ngurah Rai Ruko Nusa Dua Indah Blok B & C, Lingk Mumbul, Benoa, South Kuta, Badung Regency, Bali 80361	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+203	SPKLU Bank Mandiri Nusadua	Kabupaten Bandung	-8.790188391	115.2116452	Bank Mandiri Nusadua 	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+204	SPKLU CIARO NAGREG (SPBU)	Kabupaten Bandung	-7.036074125	107.9265133	Jalan Raya, Limbangan, Ciaro, Nagreg, Bandung Regency, West Java 40215	CCS (Type 2)	120		0		0		0		0		0		0	1/12/2025 4:30
+205	SPKLU Kota Baru Parahyangan	Kabupaten Bandung	-6.867596905	107.4649677	SPKLU Kota Baru Parahyangan 	Type 2 (Socket Only)	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+206	SPKLU PLN Charging Station Munggu	Kabupaten Bandung	-8.624322232	115.123523	PLN Munggu 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+207	SPKLU Kintamani	Kabupaten Bangli	-8.273082151	115.3455973	SPKLU Kintamani 	CCS (Type 2)	30	CHAdeMO	30	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0	1/12/2025 4:30
+208	PLN ULP Bantul	Kabupaten Bantul	-7.892726306	110.3362792	PLN ULP Bantul, 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+209	Rest Area Grand Watu Dodol	Kabupaten Banyuwangi	-8.087461291	114.4160454	Rest Area Grand Watu Dodol, 	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	0		0		0		0		0	1/12/2025 4:30
+210	Rest Area "Travoy" KM 360 B Batang Semarang	Kabupaten Batang	-6.921258	109.86356	Rest Area KM 360 B Batang Semarang	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0	1/12/2025 4:30
+211	Rest Area KM45 Ciawi	Kabupaten Bogor	-6.637049	106.843805	Rest Area  KM 45A  Tol Jagorawi 	CCS (Type 2)	60		0		0		0		0		0		0	1/12/2025 4:30
+212	PLN ULP Bondowoso	Kabupaten Bondowoso	-7.917719676	113.8297234	PLN ULP Bondowoso 	CCS (Type 2)	40	CHAdeMO	40	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+213	Rest Area KM 487B Semarang Solo	Kabupaten Boyolali	-7.523590601	110.6680246	Rest Area KM 487B Tol Semarang - Solo, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+214	Rest Area KM 252A  Brebes	Kabupaten Brebes	-6.906006	108.91516	Rest Area KM 252A  Brebes, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+215	PT PLN (Persero) - Rayon Seririt	Kabupaten Buleleng	-8.192656643	114.9410188	PT PLN - Rayon Seririt 	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+216	PT PLN (Persero) ULP Singaraja	Kabupaten Buleleng	-8.114121962	115.0919179	PT PLN ULP Singaraja 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+217	SPKLU HOTEL Umega	Kabupaten Dharmasraya	-1.021796381	101.6044717	Jl. Trans Sumatera Km. 200, Gunung Medan, Muara Bungo - Solok, Gn. Medan, Darmas Raya	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+218	PT. PLN (Persero) Rayon Gianyar	Kabupaten Gianyar	-8.543858773	115.3227025	PLN Rayon Gianyar  	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	0		0		0		0		0	1/12/2025 4:30
+219	Anjungan Betutu, Gilimanuk	Kabupaten Jembrana	-8.168419752	114.4351757	Anjungan Betutu, Gilimanuk, Kec. Melaya	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	Type 2 (Tethered Connector) 	22		0		0		0	1/12/2025 4:30
+220	Perusahaan Listrik Negara (PLN). PT Persero - Rayon Negara	Kabupaten Jembrana	-8.360213289	114.6250538	PLN - Rayon Negara, 	CCS (Type 2)	30	CHAdeMO	30	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0	1/12/2025 4:30
+221	Rest Area KM 678A Tol Kertosono - Mojokerto	Kabupaten Jombang	-7.535145928	112.1752327	Rest Area KM 678A  Tol Kertosono - Mojokerto 	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+222	PLN (Persero) UP3 KEDIRI	Kabupaten Kediri	-7.813553979	112.0141983	PLN (Persero) UP3 KEDIRI	CCS (Type 2)	47	Type 2 (Tethered Connector) 	7		0		0		0		0		0	1/12/2025 4:30
+223	Rest Area "Travoy" KM 389 B Batang Semarang	Kabupaten Kendal	-6.984765	110.10456	Rest Area KM 389B, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	7	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22	1/12/2025 4:30
+224	Rest Area "Travoy" KM 391 A Batang Semarang	Kabupaten Kendal	-6.98644049	110.123187	Rest Area KM 391A , Tol Batang - Semarang, 	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+225	PT. PLN (Persero) ULP Klungkung	Kabupaten Klungkung	-8.531047585	115.3983817	PLN ULP Klungkung 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	0		0		0		0		0	1/12/2025 4:30
+226	Rest Area KM 33 A Tol Bakauheni - Terbanggi Besar	Kabupaten Lampung Selatan	-5.653534073	105.5844765	Rest Area KM 33 A  	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+227	Rest Area KM 33B Tol Bakauheni - Terbanggi Besar	Kabupaten Lampung Selatan	-5.652560556	105.585065	Rest Area KM 33B 	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+228	PT. PLN (Persero) ULP Lumajang	Kabupaten Lumajang	-8.106658092	113.2315683	PLN ULP Lumajang, 	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+229	Rest Area KM 597A	Kabupaten Magetan	-7.543401844	111.506373	Rest Area KM 597A  	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100		0		0		0		0	1/12/2025 4:30
+230	Rest Area KM 166A Tol Cipali	Kabupaten Majalengka	-6.713363	108.242231	Rest Area KM 166A 	CCS (Type 2)	100	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+231	OmbÃ© Kofie Araya	Kabupaten Malang	-7.937809753	112.6819905	Jl. Araya Boulevard No.27, Ulesari, Tirtomoyo, Kec. Pakis, Kabupaten Malang, Jawa Timur 65154	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+232	Rest Area "Travoy" KM 575B Solo Ngawi	Kabupaten Ngawi	-7.410204954	111.3817465	Rest Area KM 575B Solo Ngawi 	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22	CHAdeMO	0	CCS (Type 2)	100		0		0		0	1/12/2025 4:30
+233	Rest Area Km 319B Pemalang	Kabupaten Pemalang	-6.925075898	109.495075	Rest Area Km 319B,	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100	CCS (Type 2)	50	CCS (Type 2)	100		0	1/12/2025 4:30
+234	Rest Area KM 819B Tol Pasuruan Probolinggo 	Kabupaten Probolinggo	-7.748941587	113.0706018	 Rest Area KM 819B Tol Pasuruanâ€“Probolinggo 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Socket Only)	22		0		0		0		0	1/12/2025 4:30
+235	Rest Area KM 833 B  Tol Pasuruan Probolinggo  	Kabupaten Probolinggo	-7.809062775	113.171535	Rest Area KM 833 B  Tol Pasuruanâ€“Probolinggo   Aum Kerep, Pohsangit Leres, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+236	Rest Area KM 833A  Tol Pasuruan Probolinggo  	Kabupaten Probolinggo	-7.808051433	113.1714466	Rest Area KM 833A  Tol Pasuruanâ€“Probolinggo   Timur 2, Muneng Kidul, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Socket Only)	22		0		0		0		0	1/12/2025 4:30
+237	Rest Area KM 72 A Cipularang	Kabupaten Purwakarta	-6.46623	107.44468	Rest Area KM 72A 	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+238	Rest Area KM 97B Cipularang	Kabupaten Purwakarta	-6.674333	107.4391	Rest Area Km 97B Tol Cipularang, 	CCS (Type 2)	60		0		0		0		0		0		0	1/12/2025 4:30
+239	Rest Area "Travoy" KM 538 B Solo - Ngawi	Kabupaten Sragen	-7.394084552	111.051726	Rest Area KM 538B Solo - Ngawi, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+240	Rest Area "Travoy" KM 538A Solo Ngawi	Kabupaten Sragen	-7.393221131	111.0511266	Rest Area KM 538A Solo - Ngawi, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+241	Rest Area KM 102 A Tol Cipali	Kabupaten Subang	-6.508149664	107.7219356	Rest area, Jl. Tol Cikopo - Palimanan km 102 a, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25		0		0		0	1/12/2025 4:30
+242	PLN Tabanan	Kabupaten Tabanan	-8.539558999	115.1273994	PLN Tabanan 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+243	Rest Area Soka , Raya DPS Gilimanuk	Kabupaten Tabanan	-8.528572459	114.9968555	Jl. Raya Denpasar - Gilimanuk No.2, Antap, Kec. Selemadeg,	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
+244	Rest Area KM 45B Tol Jakarta-Merak	Kabupaten Tangerang	-6.186547	106.408348	Rest Area KM 45B Tol Jakarta-Merak, 	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	25		0		0		0		0	1/12/2025 4:30
+245	SPKLU Centre Point PIK 2	Kabupaten Tangerang	-6.049831774	106.6947785	SPKLU Centre Point PIK 2 	CCS (Type 2)	200		0		0		0		0		0		0	1/12/2025 4:30
+246	Rest Area KM 287 A Tol Pejagan-Pemalang	Kabupaten Tegal	-6.933294968	109.2149735	Rest Area KM 287A Tol Pejagan-Pemalang 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+247	PT. PLN ULP Tulungagung	Kabupaten Tulungagung	-8.056008792	111.9001077	PT. PLN ULP Tulungagung 	CCS (Type 2)	40	CHAdeMO	40	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+248	SPKLU PLN ULP WONOSOBO	Kabupaten Wonosobo 	-7.36895194	109.8998165	PLN ULP WONOSOBO	Type 2 (Tethered Connector) 	7	CCS (Type 2)	25		0		0		0		0		0	1/12/2025 4:30
+249	Kantor Gubernur Kalimantan Selatan	Kalimantan 	-3.4844869	114.8327574	Palam, Kec. Cemp., Kota Banjar Baru, Kalimantan Selatan 70732, Indonesia	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+250	Unit Induk Distribusi Kalimantan Selatan & Kalimantan Tengah	Kalimantan 	-3.438565	114.8257812	Jl. Panglima Batur No.1, Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru, Kalimantan Selatan 70711, Indonesia	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+251	Rest Area KM 36B Tol Pekanbaru - Bangkinang	Kampar	0.411055657	101.0492015	Jl. Tol Pekanbaru - Bangkinang, Muara Jalai, Kec. Bangkinang, Kabupaten Kampar, Riau 21184	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+252	SPKLU Rest Area KM 36A Tol Pekanbaru-Bangkinang	Kampar	0.411773589	101.0471707	Jl. Tol Pekanbaru - Bangkinang, Muara Jalai, Kec. Bangkinang, Kabupaten Kampar, Riau 21184	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+253	SPKLU Rest Area KM 45 A Pekanbaru-Dumai	Kandis	0.936715777	101.2304881	Jalan Tol Pekanbaruâ€“Dumai	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+254	SPKLU PLN KARANGASEM	Karangasem	-8.452265955	115.6167032	Jl. Bhayangkara No.21, Karangasem, Kec. Karangasem, Kabupaten Karangasem, Bali 80811	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+255	Hyundai Karawang	Karawang	-6.3287586	107.2923004	Samping Hotel Mercure, Jl. Arteri Galuh Mas Raya, Sukaharja	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+256	Marketing Office Summarecon Karawang	Karawang	-6.32272134	107.3385879	Bulevar Summarecon Emerald Karawang	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+257	Perumahan Grand Taruma	Karawang	-6.305614	107.2782233	Jl. Akses Tol Karawang Bar., Sukamakmur, Telukjambe Timur	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+258	Rest Area 62B Cikampek	Karawang	-6.3890337	107.3947313	Rest Area KM 62B Tol Cikampek, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	50	CHAdeMO	50		0		0		0	1/12/2025 4:30
+259	Rest Area KM 57A Cikampek	Karawang	-6.3681059	107.3603665	Rest Area KM 57A Tol Cikampek 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	50	CCS (Type 2)	25		0		0		0	1/12/2025 4:30
+260	SPKLU ULP Cikampek	Karawang	-6.4119195	107.4643202	Jl. Ir. Haji Juanda No.29, Cikampek Tim., Kec. Cikampek	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+261	SPKLU ULP Karawang Kota	Karawang	-6.3077029	107.2927215	Jl. Kertabumi No.16, Karawang Kulon, Kec. Karawang Bar.	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+262	SPKLU UP3 Karawang	Karawang	-6.3056721	107.2921693	Jl. Kertabumi No.36, Karawang Kulon, Kec. Karawang Bar.	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+263	Rest Area KM 130 B Cipali	Karawang Regency	-6.576975547	107.9605507	Rest Area KM 130 B, Indramayu,	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25		0		0		0	1/12/2025 4:30
+264	SPKLU Hotel Sibayak Internasional Berastagi	Karo	3.200696722	98.50516126	Jl. Merdeka, Gundaling I, Kec. Berastagi, Kabupaten Karo	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+265	SPKLU PLN ULP KEBUMEN	Kebumen	-7.675117693	109.6705215	Jl. Tentara Pelajar No.19, Panggel, Panjer, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54312	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+266	SPKLU PLN ULP KISARAN	Kisaran Barat	2.982264803	99.62478961	Jalan Dokter Sutomo, Tegal Sari, Kec. Kota Kisaran Barat, Kabupaten Asahan, Sumatera Utara 21211	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+267	Candi Prambanan	Klaten	-7.754247	110.4940114	Jl. Raya Solo - Yogyakarta No.25, Tlogo Kidul, Kb. Dalem Kidul, Kec. Prambanan, Kabupaten Klaten, Jawa Tengah 57454	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+268	SPKLU PLN ULP Kota Bangun 	Kota Bangun 	-0.271681	116.595082	Bangun Ulu City, Kotabangun, Kutai Kartanegara Regency, East Kalimantan 75561	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+269	Bank BRI KC Denpasar Renon	Kota Denpasar	-8.671889887	115.2317683	Bank BRI Renon 	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+270	Rumah BUMN Denpasar	Kota Denpasar	-8.692711786	115.2180367	Rumah BUMN Denpasar 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+271	PLN ULP Probolinggo	Kota Probolinggo	-7.749930023	113.2172197	PLN ULP Probolinggo 	CCS (Type 2)	100		0		0		0		0		0		0	1/12/2025 4:30
+272	SPKLU KANTOR PLN UP3 KOTAMOBAGU 2	Kotamobagu	0.733	124.321656	Jl. Paloko Kinalang No.2, Kotabangon, Kec. Kotamobagu Tim., Kota Kotamobagu, Sulawesi Utara 95716	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+273	Wuling Kumala Kotamobagu 	Kotamobagu	0.734968	124.30611	Mogolaing, Kotamobagu Barat, Kotamobagu City, North Sulawesi	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+274	SPKLU WING HUB KUALANAMU	Kualanamu	3.598581525	98.82985308	Komp Hub Kualanamu,jl Arteri Kualanamu No 9	CCS (Type 2)	20	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+275	SPKLU PLN Rayon Taluk Kuantan	Kuantan Singingi	-0.531406525	101.5704978	Jl. Limuno Timur, Ps. Taluk, Kec. Kuantan Tengah, Kabupaten Kuantan Singingi, Riau 29566	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+276	SPKLU ULP Wates	Kulon Progo	-7.8660434	110.1507383	PLN ULP Wates, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200		0		0		0		0		0	1/12/2025 4:30
+277	PT PLN (Persero) ULP Kuningan	Kuningan Regency	-6.977567549	108.4846409	PT PLN (Persero) ULP Kuningan	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+278	SPKLU HOTEL HARPER	Kupang 	-10.1691682	123.6109462	Jalan CBD Boulevard X No.11, Fatululi, Kec. Oebobo, Kota Kupang, Nusa Tenggara Tim.	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+279	SPKLU PARADOX KUPANG	Kupang 	-10.173494	123.614013	Jl. W.J. Lalamentik, Oebufu, Kec. Oebobo, Kota Kupang, Nusa Tenggara Tim.	CHAdeMO	25		0		0		0		0		0		0	1/12/2025 4:30
+280	SPKLU TIROSA	Kupang 	-10.1556461	123.633811	Jl. Piet A. Tallo No.101, Oesapa Bar., Kec. Klp. Lima, Kota Kupang, Nusa Tenggara Tim. 85228	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+281	SPKLU TRANSMART KUPANG	Kupang 	-10.170178	123.609196	Jl. W.J. Lalamentik, Oebufu, Kec. Oebobo, Kota Kupang, Nusa Tenggara Tim. 85111, Indonesia	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+282	SPKLU MANDALIKA (Kawasan ITDC)	Kuta	-8.890897505	116.2832648	Kuta, Pujut, Central Lombok Regency, West Nusa Tenggara 83573	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+283	SPKLU BLUEMOON HOTEL	Labuan Bajo	-8.5006198	119.883657	 Jl. H. Ishaka, Goron Talo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim.	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+284	SPKLU PLN Kampung Ujung, Labuan Bajo	Labuan Bajo	-8.4904129	119.8755916	Labuan Bajo, West Manggarai Regency, East Nusa Tenggara	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
+285	SPKLU PLN ULP LABUAN BAJO	Labuan Bajo	-8.475708	119.890606	Kompleks SMIP, Jl. Frans Nala, Batu Cermin, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim. 86763	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+286	SPKLU PLN ULP Lakawan 	Lakawan 	-3.391425	119.798141	Mataran, Anggeraja, Enrekang Regency, South Sulawesi 91752	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+287	Rest Area 49A Trans Sumatra	Lampung	-5.5176833	105.5205609	Bakauheni - Terbanggi Besar Toll Rd, Karya Mulya Sari, Candipuro, Lampung Selatan	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CHAdeMO	50	CCS (Type 2)	50		0		0		0	1/12/2025 4:30
+288	Rest Area KM 116 A  Lampung Tengah	Lampung	-5.089284784	105.2117632	Rest Area KM 116 A  	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+289	Rest Area KM 116B Lampung Tengah	Lampung	-5.088972537	105.2127533	Rest Area KM 116B 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+290	Rest Area KM 163A Trans Sumatra	Lampung	-4.6821572	105.1914116	Rest Area KM 163A Tol Trans Sumatra, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+291	Rest Area KM 20 A  Tol Bakauheni - Terbanggi Besar	Lampung	-5.726007368	105.6680073	Rest Area KM 20 A 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+292	Rest Area KM 20B Trans Sumatra	Lampung	-5.7255183	105.6683312	Rest Area KM 20B Tol Trans Sumatra, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+293	Rest Area KM 49B Tol Bakauheni - Terbanggi Besar	Lampung	-5.516514894	105.5212514	Rest Area KM 49B Tol Bakauheni - Terbanggi Besar, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+294	Rest Area KM 87A Tol Bakauheni - Terbanggi Besar	Lampung	-5.319136324	105.2654714	Rest Area KM 87A Tol Bakauheni - Terbanggi Besar, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+295	Rest Area KM 87B Trans Sumatra	Lampung	-5.31871	105.26654	Rest Area KM 87 B	CCS (Type 2)	200		0		0		0		0		0		0	1/12/2025 4:30
+296	SPKLU PLN 	Langsa	4.47233	97.9647	Jalan Raya Medan Banda Aceh	Type 2 (Tethered Connector) 	7	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+297	SPKLU PLN UP3 LANGSA	Langsa	4.471000772	97.96845186	Jl. Jenderal Ahmad Yani No.6, Gampong Jawa, Kec. Langsa Kota, Kota Langsa, Aceh 24375	CCS (Type 2)	100		0		0		0		0		0		0	1/12/2025 4:30
+298	SPKLU PLN UP3 LHOKSEUMAWE	Lhokseumawe	5.16987	97.13449	Cunda Raya, Uteun Kot, Kec. Muara Dua, Kota Lhokseumawe, Aceh 24355	CCS (Type 2)	100	CCS (Type 2)	100	Type 2 (Tethered Connector) 	7		0		0		0		0	1/12/2025 4:30
+299	SPKLU PLN ULP LUBUK LINGGAU	Lubuk Linggau	-3.277244353	102.8975832	Jl. Trans Sumatera Lahat - Lubuklinggau No.147, Watervang, Kec. Lubuk Linggau Tim. I, Kota Lubuklinggau, Sumatera Selatan 31625	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+300	PLN UP3 Madiun	Madiun	-7.634455528	111.5327867	PLN UP3 Madiun 	CCS (Type 2)	47	Type 2 (Tethered Connector) 	7		0		0		0		0		0	1/12/2025 4:30
+301	Rest Area KM 626A	Madiun	-7.547839817	111.7580839	Pepe, Pajaran, Kec. Saradan, Kabupaten Madiun, Jawa Timur 63155	Type 2 (Tethered Connector) 	22	CCS (Type 2)	7	CCS (Type 2)	25	CHAdeMO	25		0		0		0	1/12/2025 4:30
+302	Rest Area KM 626B	Madiun	-7.549570635	111.7575754	Jl. Raya Saradan No.16, Pepe, Pajaran, Kec. Saradan, Kabupaten Madiun, Jawa Timur 63155	Type 2 (Tethered Connector) 	22	CCS (Type 2)	7	CCS (Type 2)	25	CHAdeMO	25		0		0		0	1/12/2025 4:30
+303	Rest Area KM 597B (Sawahan - Madiun)	Madiun Regency	-7.545728983	111.5082431	Rest Area KM 597B 	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+304	Candi Borobudur	Magelang	-7.6052756	110.2081285	Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah 56553	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+305	Hyundai Magelang	Magelang	-7.49584633	110.2234161	Jl. Jend. Sudirman No.165, Tidar Sel., Kec. Magelang Sel., Kota Magelang, Jawa Tengah 56125	Type 2 (Socket Only)	7		0		0		0		0		0		0	1/12/2025 4:30
+306	SPKLU PLN ULP Magelang Kota	Magelang	-7.464623256	110.2239563	PLN ULP Magelang Kota, 	Type 2 (Tethered Connector) 	7	CCS (Type 2)	30	CHAdeMO	30		0		0		0		0	1/12/2025 4:30
+307	Rest Area KM 164B Tol Cipali	Majalengka Regency	-6.706646	108.225466	Rest Area KM 164B Tol Cikopo - Palimanan, 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25		0		0		0	1/12/2025 4:30
+308	SPKLU Kantor PLN ULP Makale 	Makale 	-3.101955	119.854	Jl. Ampera No.48, Tondon Mamullu, Kec. Makale, Kabupaten Tana Toraja, Sulawesi Selatan 91817	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+309	SPKLU PLN UP3 Malang	Malang	-7.974106205	112.6301676	Pln Area Malang, Jl. Jenderal Basuki Rahmat, Klojen, Kec. Klojen, Kota Malang, Jawa Timur 65111	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+310	Rest Area "Travoy" KM 84A Pandaan Malang	Malang Regency	-7.8972234	112.6981326	Rest Area KM 84A Tol Pandaan -  Malang, 	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+311	SPKLU PLN ULP MALINAU	Malinau	3.5754479	116.6098067	 Malinau Kota, Malinau Regency, North Kalimantan 77554	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+312	SPKLU PLN Kawasan Megamas Manado	Manado	1.4863178	124.8338397	Area Food City, Megamas, Sulawesi, Wenang Sel., Kota Manado, Sulawesi Utara	CHAdeMO	25		0		0		0		0		0		0	1/12/2025 4:30
+313	SPKLU PLN ULP MANADO SELATAN	Manado	1.471832	124.835035	North Sario, Sario, Manado City, North Sulawesi	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+314	SPKLU PLN ULP Masamba	Masamba 	-2.550687	120.351873	Baliase, Masamba, North Luwu Regency, South Sulawesi 92917	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+315	Rest Area "Travoy" KM 519B Solo Ngaw	Masaran	-7.480416072	110.9205214	Rest Area KM 519B 	CCS (Type 2)	50	CCS (Type 2)	50	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	25		0		0	1/12/2025 4:30
+316	Rest Area KM 519A 	Masaran	-7.480903899	110.9189831	Rest Area KM 519A Masaran Sragen, 	CCS (Type 2)	50	CCS (Type 2)	50	CCS (Type 2)	50	CHAdeMO	50		0		0		0	1/12/2025 4:30
+317	SPKLU MVP GRAND NATURA	Mataram	-8.568140678	116.1175234	Jl. Terusan Bung Hatta No.107, Monjok, Kec. Selaparang, Kota Mataram, Nusa Tenggara Bar. 83122	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+318	SPKLU SANTIKA MATARAM	Mataram	-8.58250334	116.1077036	Jl. Langko, Gomong, Kec. Selaparang, Kota Mataram, Nusa Tenggara Bar.	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+319	SPKLU LOMBOK EPICENTRUM MALL	Mataram City	-8.59452946	116.105142	Jl. Sriwijaya No.333, Punia, Kec. Mataram, Kota Mataram, Nusa Tenggara Bar. 83127	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+320	SPKLU Arista Power	Medan	3.607069328	98.66119048	Jl. T. Amir Hamzah No.10, RW.LK. 10, Sei Agul, BaratSei AgulMedan, Kota Medan, Sumatera Utara 20114	CCS (Type 2)	60		0		0		0		0		0		0	1/12/2025 4:30
+321	SPKLU CityView	Medan	3.55929	98.68352	Jl. K. M. Adi Sucipto, Ruko no. D14 Lantai 2 Cityview Condominium, Suka Damai, Medan Polonia, Medan City, North Sumatra 20217	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+322	SPKLU HVT Amir Hamzah	Medan	3.608172319	98.64904493	Jl. T. Amir Hamzah No.71, Helvetia Tim., Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20117	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
+323	SPKLU PLN HOME SMART MEDAN	Medan	3.590557119	98.65239044	Jl. Gatot Subroto No.102, Sei Putih Bar., Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118	CCS (Type 2)	25		0		0		0		0		0		0	1/12/2025 4:30
+324	SPKLU PLN ROYAL SUMATERA MEDAN	Medan	3.521887208	98.64135726	Mangga, Medan City, North Sumatra	CCS (Type 2)	25		0		0		0		0		0		0	1/12/2025 4:30
+325	SPKLU PLN UID SUMATRA UTARA	Medan	3.615363878	98.67229892	Martubung, Labuhan, Jl. KL. Yos Sudarso No.284, Glugur Kota, Kec. Medan Bar., Kota Medan, Sumatera Utara 20238	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+326	SPKLU Puspem Badung	Mengwi	-8.602435552	115.1804446	SPKLU Puspem Badung	CCS (Type 2)	200		0		0		0		0		0		0	1/12/2025 4:30
+327	SPKLU PLN ULP MUNTOK	Mentok	-2.060107434	105.1668787	Daeng River, Mentok, West Bangka Regency, Bangka Belitung Islands 33351	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+328	SPKLU PLN UP3 MERAUKE	Merauke 	-8.482759	140.389728	Jl. Trikora No.1, Maro, Kec. Merauke, Kabupaten Merauke, Papua Selatan 99614	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+329	Rest Area KM 234 A	Mesuji Regency	-4.08116046	105.1586595	Rest Area KM 234A 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+330	SPKLU UP3 Meulaboh	Meulaboh	4.152199364	96.12984007	Jl Swadaya,Drien Rampak	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
+331	SPKLU PLN ULP Muara Teweh 	Muara teweh 	-0.9631611	114.8938738	Jl. Beringin No.5, Lanjas, Kec. Teweh Tengah, Kabupaten Barito Utara, Kalimantan Tengah 73814	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+332	SPKLU PLN ULP NABIRE KOTA	Nabire 	-3.3621702	135.5012025	Oyehe, Nabire, Nabire Regency, Central Papua 98811	CHAdeMO	25		0		0		0		0		0		0	1/12/2025 4:30
+333	SPKLU PLN UP3 NABIRE	Nabire 	-3.378911	135.4607	JL. CH. Martatiahahu, Kalibobo, Distrik Nabire, Kabupaten Nabire, Papua Tengah 98818	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+334	Rest Area "Travoy" KM 575A Solo Ngawi	Ngawi Regency	-7.408684375	111.3818683	Rest Area KM 575A Solo Ngawi 	CCS (Type 2)	47	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22		0		0	1/12/2025 4:30
+335	Rest Area KM 56 A  Tol Palembang - Prabumulih	Ogan Ilir Regency	-3.439786749	104.4616042	Rest Area KM 56 A	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+336	Rest Area KM 56B Tol Palembang  - Prabumulih	Ogan Ilir Regency	-3.439043668	104.4603104	Rest Area KM 56B Tol Palembang  - Prabumulih, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+337	Rest Area KM 269B Tol Bakauheni - Kayu Agung	Ogan Komering Ilir	-3.8109502	105.0942935	Rest Area KM 269B 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+338	Rest Area KM 277A Tol Bakauheni - Kayu Agung	Ogan Komering Ilir	-3.7466171	105.052494	Rest Area KM 277A Tol Bakauheni - Kayu Agung, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+339	Rest Area KM 306B	Ogan Komering Ilir Regency	-3.511343614	104.9420745	Rest Area KM 306B	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+340	Rest Area KM 306B	Ogan Komering Ilir Regency	-3.51153637	104.9420745	Rest Area KM 306B 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200		0		0		0		0		0	1/12/2025 4:30
+341	Rest Area KM 311A	Ogan Komering Ilir Regency	-3.474701205	104.9238324	Rest Area KM 311A	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+342	SPKLU Hausnummer 11	Padang	-0.95313366	100.3551979	Jl. Diponegoro No.11, Belakang Tangsi, Kec. Padang Bar., Kota Padang, Sumatera Barat	CCS (Type 2)	200		0		0		0		0		0		0	1/12/2025 4:30
+343	SPKLU PLN UIW SUMBAR	Padang	-0.945727309	100.3719716	Jl. Dr. Wahidin No.8, Sawahan, Kec. Padang Tim., Kota Padang, Sumatera Barat 25171	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+344	SPKLU UNAND	Padang	-0.917583612	100.4577645	Jl. Lingkar Universitas Andalas, Limau Manis, Kec. Pauh, Kota Padang, Sumatera Barat 25176	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+345	SPKLU PLN UP3 PADANGSIDIMPUAN	Padang Sidempuan	1.403780478	99.27917729	Jl. Raja Inal Siregar No.11A, Batunadua Jae, Kec. Padangsidimpuan Batunadua, Kota Padang Sidempuan, Sumatera Utara 22733	CCS (Type 2)	30	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+346	SPKLU PLN Palangkaraya	Palangkaraya	-1.857594	114.6497205	Jl. Ahmad Yani No.10d, Langkai, Kec. Pahandut, Kota Palangka Raya, Kalimantan Tengah 74874, Indonesia	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+347	SPKLU PLN ULP Palangkaraya Barat 	Palangkaraya	-2.181105	113.886637	Bukit Tunggal, Jekan Raya, Palangka Raya City, Central Kalimantan 74874	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+348	SPKLU PLN ULP Palangkaraya Timur	Palangkaraya	-2.206518	113.922092	Jl. Ahmad Yani, Langkai, Kec. Jekan Raya, Kota Palangka Raya, Kalimantan Tengah 74874	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+349	SPKLU PLN S2JB Demang	Palembang	-2.98244	104.7245	JL Demang Lebar Daun  No 170	CCS (Type 2)	30	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60		0		0		0		0	1/12/2025 4:30
+350	SPKLU PLN ULP Palopo 	Palopo	-2.996072	120.188942	Jl. Veteran, Tomarundung, Kec. Wara Bar., Kota Palopo, Sulawesi Selatan 91913	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
+351	Wuling Kumala Palopo	Palopo	-3.019137	120.208915	Jl. Jenderal Sudirman No.189, Binturu, Kec. Wara Sel., Kota Palopo, Sulawesi Selatan 91911, Indonesia	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+352	Kantor Gubernur Sulawesi Tengah 	Palu 	-0.8906478	119.8705087	Jl. Sam Ratulangi No.101, Besusu Bar., Kec. Palu Tim., Kota Palu, Sulawesi Tengah 94118, Indonesia	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+353	SPKLU PLN UP3 Palu 	Palu 	-0.901922	119.878861	Jl. R.A. Kartini No.26, Lolu Sel., Kec. Palu Sel., Kota Palu, Sulawesi Tengah 94111	CHAdeMO	60		0		0		0		0		0		0	1/12/2025 4:30
+354	SPKLU PLN UP3 PAMEKASAN	Pamekasan	-7.16132139	113.4923057	Jl. Jokotole No.127A, Murleke, Barurambat Tim., Kec. Pademawu, Kabupaten Pamekasan, Jawa Timur 69321	CCS (Type 2)	40	CHAdeMO	40	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+355	SPKLU Hotel SUN IN Pangandaran	Pangandaran	-7.701126547	108.6583687	Jl. Kidang Pananjung No.199, Pangandaran, Kec. Pangandaran, Kab. Pangandaran, Jawa Barat 46396	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+356	SPKLU PLN HOTEL Grand Palma Pangandaran	Pangandaran	-7.704419568	108.6564402	Pangandaran, Pangandaran Regency, West Java	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+357	SPKLU PLN ULP PANGANDARAN	Pangandaran	-7.683848	108.657835	JL Banjar	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	0		0		0		0		0	1/12/2025 4:30
+358	SPKLU The Allure Vilas Pangandaran	Pangandaran	-7.68449006	108.6383725	Kawasan, Jl. Grand Pangandaran No.Kav.15, Wonoharjo, Kec. Pangandaran, Kab. Pangandaran, Jawa Barat 46396	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+359	SPKLU PLN ULP PANGURURAN	Pangururan	2.607809499	98.69571967	Jl Kejaksaan ,Kabupaten Samosir	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+360	SPKLU PLN ULP PARAPAT	Parapat	2.6688	98.94296	Jl Bangun Dolok No 14	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+361	SPKLU PLN ULP Parigi 	Parigi 	-0.81642	120.1730971	 Maesa, Parigi, Parigi Moutong Regency, Central Sulawesi 94471	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+362	SPKLU PLN ULP Pasangkayu	Pasangkayu	-1.172335	119.370561	Jl. Moh. Hatta, Pasangkayu, Kec. Pasangkayu, Kab. Pasangkayu, Sulawesi Barat 91571	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+363	SPKLU PLN ULP PASIR PANGARAIAN	Pasir Pengaraian	0.862978245	100.2969415	Jl. Koperasi No.3, Pasir Pengaraian, Kec. Rambah, Kabupaten Rokan Hulu, Riau 28558	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+364	Rest Area "Travoy" KM 66A Pandaan Malang	Pasuruan	-7.743707922	112.7183439	Rest Area KM 66A Tol Pandaan- Malang, 	CCS (Type 2)	60	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0		0	1/12/2025 4:30
+365	Rest Area KM 792B Gempol Pasuruan	Pasuruan	-7.655518463	112.8547139	Rest Area KM 792B Tol Gempol - Pasuruan 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0	1/12/2025 4:30
+366	Rest Area "Travoy" KM 66B Pandaan Malang	Pasuruan 	-7.74393373	112.7167404	Rest Area KM 66B 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0	1/12/2025 4:30
+367	Rest Area "Travoy" KM 792A Gempol Pasuruan	Pasuruan 	-7.65294276	112.8540844	Rest Area KM 792A Tol Gempol - Pasuruan, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0	1/12/2025 4:30
+368	SPKLU PLN UP3 Payakumbuh	Payakumbuh	-0.224642275	100.6313819	Jl. Soekarno - Hatta No.48, Daya Bangun, Kec. Payakumbuh Bar., Kota Payakumbuh, Sumatera Barat 26219	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+369	Rest Area 338A Pekalongan	Pekalongan	-6.948322831	109.6696962	Sawah, Pegandon, Kec. Karangdadap, Kabupaten Pekalongan, Jawa Tengah	CCS (Type 2)	100	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0		0	1/12/2025 4:30
+370	SPKLU Kantor Gubernur Provinsi Riau	Pekanbaru	0.51666333	101.4462313	Jl. Jend. Sudirman No.460, Jadirejo, Kec. Sukajadi, Kota Pekanbaru, Riau 28121	CCS (Type 2)	200		0		0		0		0		0		0	1/12/2025 4:30
+371	SPKLU PLN ICON + SBU SBT	Pekanbaru	0.453270109	101.4185475	Arengka Atas Jl. Soekarno - Hatta, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28253	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+372	SPKLU PLN RIAU	Pekanbaru	0.501916038	101.4099888	Jl. Tuanku Tambusai, Labuh Baru Bar., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+373	SPKLU PLN UP3 PEKANBARU	Pekanbaru	0.53607	101.45096	JL DR Setia Budhi No 57	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+374	SPKLU PLN UP3 PEMATANGSIANTAR	Pematang Siantar	2.957198087	99.05853454	Jl. Kapten M.H. Sitorus No.1, Proklamasi, Kec. Siantar Bar., Kota Pematang Siantar, Sumatera Utara 21117	CCS (Type 2)	30	CHAdeMO	30		0		0		0		0		0	1/12/2025 4:30
+375	SPKLU PLN IKN 1	Penajam Paser	-0.971612641	116.7124716	Pemaluan, Kec. Sepaku, Kabupaten Penajam Paser Utara, Kalimantan Timur	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+376	SPKLU PLN ULP PERAWANG	Perawang	0.668565168	101.5888788	M Jl. Moh. Ali, Perawang Bar., Kec. Tualang, Kabupaten Siak, Riau 28685	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+377	Rest Area KM 819A  Tol Pasuruan Probolinggo  	Probolinggo Regency	-7.747683743	113.0708559	Rest Area KM 819A  Tol Pasuruanâ€“Probolinggo  Pilang Kacir, Tanjungrejo, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Socket Only)	22		0		0		0		0	1/12/2025 4:30
+378	SPKLU PLN ULP Pulang Pisau 	Pulang Pisau 	-2.753738	114.257067	Jl. Tingang Menteng No.70, Pulang Pisau, Kec. Kahayan Hilir, Kabupaten Pulang Pisau, Kalimantan Tengah 73564	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+379	Rest Area 88A Cipularang	Purwakarta	-6.6021046	107.4274361	Rest Area 88A 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	50	CCS (Type 2)	100		0		0		0	1/12/2025 4:30
+380	Rest Area 88B Cipularang	Purwakarta	-6.6034894	107.4240067	Rest Area 88B 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200	CCS (Type 2)	60	CCS (Type 2)	50	CCS (Type 2)	100		0		0	1/12/2025 4:30
+381	Rest Area KM 72B Cipularang	Purwakarta	-6.468474	107.444404	Rest Area KM 72B 	CCS (Type 2)	47	CCS (Type 2)	25		0		0		0		0		0	1/12/2025 4:30
+382	SPKLU UP3 Purwakarta	Purwakarta	-6.5546225	107.4457311	Jl. Singawinata, Nagri Tengah, Kec. Purwakarta	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+383	SPKLU PLN ULP PURWOREJO	Purworejo	-7.713135231	110.0117693	Jl. A. Yani, Kedungputri, Baledono, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+384	SPKLU PLN ULP RANTAUPRAPAT	Rantauprapat	2.1062	99.82493	Jl. Lintas Sumatera, Rantauprapat, Kec. Rantau Utara, Kab. Labuhanbatu, Sumatera Utara 21411	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+385	SPKLU PLN KP SEI PAKNING	Riau	1.36012214	102.1565679	Sungai Selari, Kec. Bukit Batu, Kabupaten Bengkalis, Riau	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+386	SPKLU PLN ULP BENGKALIS	Riau	1.475754223	102.1213568	Wonosari, Bengkalis Sub-District, Bengkalis Regency	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+387	SPKLU PLN ULP Bagan Siapi Api	Riau	2.158027295	100.8100787	Jl. Pahlawan, Bagan Tim., Kec. Bangko, Kabupaten Rokan Hilir,	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+388	SPKLU PLN ULP DURI	Riau	1.278433998	101.1821133	Jl. Hangtuah, Air Jamban, Kec. Mandau, Kabupaten Bengkalis, Riau 28784	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+389	SPKLU PLN ULP SIAK SRI INDRAPURA	Riau	0.800296144	102.0436495	Jl. Sultan Syarif Kasim No.41, Kp. Dalam, Kec. Siak, Kabupaten Siak, Riau 28773	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+390	SPKLU POSKO YANTEK BELILES	Riau	-0.536908564	102.4159359	Jl. Lintas Sumatera, Pangkalan Kasai, Kec. Seberida, Kabupaten Indragiri Hulu, Riau 29351	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+391	SPKLU PLN ULP RUTENG	Ruteng 	-8.6091056	120.4677881	Mbaumuku, Langke Rembong, Manggarai Regency, East Nusa Tenggara 86511	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+392	SPKLU PLN ULP Sabang	Sabang	5.875100969	95.32805095	Aneuk Laot, Sukakarya, Kota Sabang, Aceh 24416	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+393	SPKLU PLN ULP SAMALANGA	Samalanga	5.194785832	96.36713304	Jl. Matang-Samalanga, Meunasah Lueng, Kec. Samalanga, Kabupaten Bireuen, Aceh	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+394	SPKLU PLN ULP Sampit	Sampit 	-2.537266	112.945341	Jl. Cut Nyak Dien, Mentawa Baru Hulu, Kec. Mentawa Baru Ketapang, Kabupaten Kotawaringin Timur, Kalimantan Tengah 74312	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+395	Balai Kota Semarang	Semarang	-6.9822478	110.4125149	Balai Kota Semarang 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200		0		0		0		0		0	1/12/2025 4:30
+396	Rest Area KM 456B Pendopo	Semarang	-7.326975275	110.5313524	Jl. Tol Semarang - Solo, Baok, Ujung-Ujung, Kec. Pabelan, Kabupaten Semarang, Jawa Tengah 50771	CCS (Type 2)	120	CHAdeMO	120	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+397	SPKLU Astra Rest Area KM 456 A	Semarang	-7.327100126	110.532194	Jl. Tol Semarang - Solo, Baok, Ujung-Ujung, Kec. Pabelan, Kabupaten Semarang, Jawa Tengah 50771	CCS (Type 2)	120	CHAdeMO	120	Type 2 (Tethered Connector) 	22	CCS (Type 2)	30		0		0		0	1/12/2025 4:30
+398	SPKLU PLN UID Jawa Tengah & DI Yogyakarta	Semarang	-7.0304215	110.4173686	PLN UID Jawa Tengah 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60	CCS (Type 2)	100		0		0		0	1/12/2025 4:30
+399	SPKLU Rest Area KM 439 A	Semarang	-7.210528795	110.44981	Jl. Tol Semarang - Solo No.KM. 439A, Kenongo, Lemahireng, Kec. Bawen, Kabupaten Semarang, Jawa Tengah	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+400	SPKLU UP3 Semarang	Semarang	-6.9768116	110.4160735	PLN UP3 Semarang 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200		0		0		0		0		0	1/12/2025 4:30
+401	Rest Area KM 424 B  Semarang	Semarang City	-7.017727183	110.3962463	Bendan Duwur, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50235	CCS (Type 2)	50	CHAdeMO	50		0		0		0		0		0	1/12/2025 4:30
+402	Rest Area KM 429 A Semarang Solo	Semarang Regency	-7.129666971	110.423945	Rest Area KM 429A ,Tol Ungaran - Bawen	CCS (Type 2)	50	CCS (Type 2)	50	Type 2 (Tethered Connector) 	22	Type 2 (Tethered Connector) 	22		0		0		0	1/12/2025 4:30
+403	SPKLU PLN SEPASO	Sepaso 	0.756138	117.560965	Sepaso, Bengalon, East Kutai Regency, East Kalimantan 75618	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+404	Hyundai Serang	Serang	-6.1504076	106.158768	Kabupaten, Jl. Raya Serang - Pandeglang, Tembong, Kec. Cipocok Jaya	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+405	Kawasan Pusat Pemerintahan Provinsi Banten (KP3B)	Serang	-6.1736953	106.1565418	Kawasan Pusat Pemerintahan Provinsi Banten (KP3B) 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+406	SPKLU ULP Cikande	Serang	-6.1750297	106.3374558	PLN ULP Cikande, 	CCS (Type 2)	200		0		0		0		0		0		0	1/12/2025 4:30
+407	SPKLU UP3 Banten Utara	Serang	-6.1158198	106.1530164	Jl. Pangeran Diponegoro No.depan, Kotabaru, Kec. Serang	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+408	Rest Area KM 68A Tol Tangerang - Merak	Serang City	-6.133278	106.204925	Rest Area KM 68A Tol Tangerang - Merak, 	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	200	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	7		0	1/12/2025 4:30
+409	Rest Area KM 68B  Tol Merak - Jakarta	Serang City	-6.131316	106.204289	Rest Area KM 68B Tol Merak - Jakarta 	CCS (Type 2)	50	CHAdeMO	50	CCS (Type 2)	30	CHAdeMO	30		0		0		0	1/12/2025 4:30
+410	SPKLU PLN HILLPARK SIBOLANGIT	Sibolangit	3.281393961	98.55529804	Jl. Jamin Ginting, Sikeben, Kec. Sibolangit, Kabupaten Deli Serdang, Sumatera Utara 20357	CCS (Type 2)	25		0		0		0		0		0		0	1/12/2025 4:30
+411	Rest Area KM 754A Surabaya Gempol	Sidoarjo Regency	-7.425763937	112.6937277	Rest Area KM 754A 	CCS (Type 2)	60		0		0		0		0		0		0	1/12/2025 4:30
+412	SPKLU PLN UP3 SIGLI	Sigli	5.380046094	95.95560915	Blang Asan, Kota Sigli, Pidie Regency, Aceh 24114	CCS (Type 2)	25	Type 2 (Tethered Connector) 	7		0		0		0		0		0	1/12/2025 4:30
+413	PLN (UP3) Situbondo	Situbondo	-7.712554012	113.9971792	PLN UP3 Situbondo, 	CCS (Type 2)	100		0		0		0		0		0		0	1/12/2025 4:30
+414	Rest Area Utama Raya Situbondo	Situbondo Regency	-7.724071	113.620313	Rest Area Utama Raya Situbondo, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+415	SPKLU PLN UP3 SOLOK	Solok	-0.799730049	100.6525491	JL Profesor Dr. Hamka, No. 81, 27314, Solok, 36124	CCS (Type 2)	24	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+416	SPKLU PLN ULP SORONG KOTA	Sorong	-0.884776	131.2844418	South Remu, Sorong Manoi, Sorong City, Southwest Papua 98412	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+417	SPKLU PLN UP3 SORONG	Sorong	-0.878976	131.26218	Klaligi, Sorong Manoi, Sorong City, Southwest Papua 98412	CHAdeMO	60		0		0		0		0		0		0	1/12/2025 4:30
+418	SPKLU ULP AIMAS	Sorong	-0.997039	131.345815	Klamalu, Distrik Mariat, Kabupaten Sorong, Papua Barat Daya 98416	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+419	Rest Area KM 101B Cipali	Subang	-6.5093091	107.7180316	Rest Area KM 101B Tol Cikopo - Palimanan, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	200		0		0		0		0		0	1/12/2025 4:30
+420	SPKLU PLN UP3 SUBULUSSALAM	Subulussalam	2.630554988	98.01867914	Jl. Teuku Umar No.299, Penanggalan, Kec. Penanggalan, Kota Subulussalam, Aceh 24783	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+421	Hyundai Sukabumi	Sukabumi	-6.9560533	106.9092227	Jl. Pelabuhan II No.575, Cipanengah, Kec. Lembursitu	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+422	SPKLU ULP Cibadak	Sukabumi	-6.8964237	106.8193096	Jl. Raya Karang Tengah No.427, Karangtengah, Kec. Cibadak	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+423	SPKLU ULP Cicurug	Sukabumi	-6.799674	106.7754224	Jl. Siliwangi, Nyangkowek, Kec. Cicurug	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+424	SPKLU ULP Cikembar	Sukabumi	-6.9512732	106.7694665	Sukamulya, Cikembar	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+425	SPKLU ULP Pelabuhan Ratu	Sukabumi	-6.9870175	106.5556374	Jl. Bhayangkara No.11, Pelabuhanratu, Kec. Pelabuhanratu	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+426	SPKLU ULP Sukabumi	Sukabumi	-6.9203307	106.9321026	SPKLU ULP Sukabumi 	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+427	SPKLU ULP Sukaraja	Sukabumi	-6.9175628	106.9651593	Jl. Raya Sukaraja No.200, Pasirhalang, Kec. Sukaraja	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+428	SPKLU UP3 Sukabumi	Sukabumi	-6.9133073	106.9326547	Selabatu, Cikole	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+429	SPKLU PLN  ULP Stabat	Sumatra Utara	3.796462419	98.44198057	Jl. Proklamasi, Kwala Bingai, Kec. Stabat, Kabupaten Langkat, Sumatera Utara	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+430	SPKLU PLN UP3 SIBOLGA	Sumatra Utara	1.744219564	98.77954821	Jl. Dr. Ferdinand Lumban Tobing No.20, Huta Tonga Tonga, Kec. Sibolga Utara, Kota Sibolga, Sumatera Utara	CCS (Type 2)	200	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+431	SPKLU MAMULI SUMBA	Sumba 	-9.6549089	120.2600388	Jl. Eltari, Matawai, Kec. Kota Waingapu, Kabupaten Sumba Timur, Nusa Tenggara Tim.	CHAdeMO	60		0		0		0		0		0		0	1/12/2025 4:30
+432	SPKLU PLN KANTOR JAGA MELOLO	Sumba 	-9.8819578	120.6601762	Lumbukore, Umalulu, East Sumba Regency, East Nusa Tenggara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+433	SPKLU PLN ULP SUMBA JAYA	Sumba 	-9.4263747	119.2356823	Jl. Yos Sudarso No.10, Radamata, Kec. Kota Tambolaka, Kabupaten Sumba Barat Daya, Nusa Tenggara Tim. 87255	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+434	SPKLU PLN UP3 SUMBA	Sumba 	-9.648229	120.261506	Jl. Ahmad Yani No.16, Matawai, Kec. Kota Waingapu, Kabupaten Sumba Timur, Nusa Tenggara Tim.	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+435	SPKLU PLN ULP ALAS	Sumbawa	-8.5138288	116.9935097	 Dalam, Alas, Sumbawa Regency, West Nusa Tenggara 84353	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+436	SPKLU PLN ULP TALIWANG	Sumbawa	-8.744276	116.838389	Jl. Sutan Syahrir, Bugis, Kec. Taliwang, Kabupaten Sumbawa Barat, Nusa Tenggara Bar. 84455	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+437	SPKLU PLN UP3 SUMBAWA	Sumbawa	-8.4992216	117.4266025	Jalan Setiabudi No.18, Seketeng, Kec. Sumbawa, Kabupaten Sumbawa, Nusa Tenggara Bar. 84313	CHAdeMO	25		0		0		0		0		0		0	1/12/2025 4:30
+438	SPKLU PLN UP3 SUMEDANG	Sumedang	-6.837553043	107.9166526	Jl. Prabu Gajah Agung, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+439	SPKLU PLN ULP SUMENEP	Sumenep	-7.013524565	113.8694795	Jl. Urip Sumoharja, Mastasek, Pabian, Kec. Kota Sumenep, Kabupaten Sumenep, Jawa Timur 69417	CCS (Type 2)	40	CHAdeMO	40	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+440	PLN ULP Embong Wungu	Surabaya	-7.281337254	112.7399192	PLN ULP Embong Wungu 	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0		0	1/12/2025 4:30
+441	PLN UP2 Jawa Timur	Surabaya	-7.265742136	112.7432108	Jl. Embong Wungu No.4, Embong Kaliasin, 	CCS (Type 2)	100		0		0		0		0		0		0	1/12/2025 4:30
+442	WTC Surabaya Mall	Surabaya	-7.262770662	112.7480466	WTC Surabaya Mall 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+443	SPKLU UP3 Surakarta	Surakarta	-7.562343	110.798072	PLN UP3 Surakarta 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	100	CCS (Type 2)	25	CHAdeMO	25		0		0		0	1/12/2025 4:30
+444	Wisma PLN Bedugul	Tabanan Regency	-8.268358401	115.1650824	Wisma PLN Bedugul 	CCS (Type 2)	30	CHAdeMO	30	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+445	SPKLU PLN ULP TAKENGON	Takengon	4.632989837	96.84268574	Jl Lebe Kader No 89	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+446	SPKLU PLN ULP Kuala Kurun 	Tampang Tumbang 	-1.109783	113.870914	Tampang Tumbang Anjir, Kurun, Gunung MAS Regency, Central Kalimantan 74571	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+447	Aeon Mall BSD	Tangerang	-6.3053252	106.6435146	Aeon Mall BSD, 	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0		0	1/12/2025 4:30
+448	Aeropolis Apartment	Tangerang	-6.1439707	106.6313091	Jl. Marsekal Suryadarma, RT.004/RW.008, Neglasari, Kec. Neglasari	Type 2 (Tethered Connector) 	22	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0	1/12/2025 4:30
+449	Hyundai BSD City	Tangerang	-6.2883461	106.6462803	Jl. BSD Grand Boulevard Utara Kavling Commercial De Park Lot II. 18A, Lengkong Kulon, Kec. Pagedangan	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+450	Hyundai Bintaro	Tangerang	-6.2730188	106.6985349	Jl. CBD No.B-03, Parigi, Kec. Pd. Aren	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+451	Hyundai Summarecon Serpong	Tangerang	-6.240494	106.6286493	Jl. Gading Serpong Boulevard No.1, Pakulonan Bar., Kec. Klp. Dua	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+452	Mall Ciputra Tangerang	Tangerang	-6.2610689	106.5249494	Mall Ciputra Tangerang 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+453	Polresta Tangerang	Tangerang	-6.272095094	106.4824082	Polresta Tangerang 	CCS (Type 2)	60	CHAdeMO	60	Type 2 (Tethered Connector) 	7		0		0		0		0	1/12/2025 4:30
+454	Rest Area KM 13A Pinang	Tangerang	-6.2143381	106.6823986	Rest Area KM 13A Tol Jakarta - Merak, 	CCS (Type 2)	60		0		0		0		0		0		0	1/12/2025 4:30
+455	Rest Area KM 43A Tol Jakarta - Merak	Tangerang	-6.193875291	106.4254662	Rest Area KM 43A Tol Jakarta - Merak, 	CCS (Type 2)	200	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	7		0		0		0	1/12/2025 4:30
+456	SPKLU UID Banten	Tangerang	-6.1844598	106.6428592	SPKLU UID Banten 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+457	SPKLU UP3 Cikupa	Tangerang	-6.2240405	106.5035167	17, Jl. Raya Serang No.KM, RW.5, Cikupa, Kec. Cikupa	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+458	SPKLU UP3 Kebon Jeruk	Tangerang	-6.2342855	106.7382614	PLN  UP3 Kebon Jeruk 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	60	CHAdeMO	60		0		0		0		0	1/12/2025 4:30
+459	Starbucks Metland Cyber City	Tangerang	-6.197891943	106.7036492	Jl Metland. Pd bahar Kec karang tengah	Type 2 (Socket Only)	22		0		0		0		0		0		0	1/12/2025 4:30
+460	Tangcity Mall	Tangerang	-6.1939327	106.6341002	Jl. Jenderal Sudirman No.1, Cikokol, Kec. Tangerang	CCS (Type 2)	25	CHAdeMO	25		0		0		0		0		0	1/12/2025 4:30
+461	Terrace 8 Suvarna Sutera	Tangerang	-6.1800072	106.4947473	Jl. Suvarna Utama No.33A, Wana Kerta, Kec. Sindang Jaya, Kabupaten Tangerang, Banten	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+462	Hyundai Ciputat	Tangerang Selatan	-6.2958975	106.7651359	Jl. Ir H. Juanda No.76, Rempoa, Kec. Ciputat Timur	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+463	Hyundai Serpong	Tangerang Selatan	-6.232799	106.6428692	Jalan Raya Serpong No.KM. 7 RW, Jl. Pd. Jagung No.32, Kec. Serpong Utara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+464	SPKLU Kantor Bupati Bulungan 	Tanjung Selor 	2.8399923	117.3974764	Tanjung Selor Hilir, Bulungan Regency, North Kalimantan	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+465	SPKLU Kantor Gubernur Kaltara	Tanjung Selor 	2.8415737	117.3733253	Tanjung Selor Hilir, Bulungan Regency, North Kalimantan	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+466	SPKLU PLN UP3 Kaltara 	Tanjung Selor 	2.841129	117.400196	 Jl. H. Raju, Tj. Selor Hilir, Kec. Tj. Selor, Kabupaten Bulungan, Kalimantan Utara 77211	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+467	PT PLN (Persero) UP3 Tasikmalaya	Tasikmalaya	-7.316106672	108.2308006	PT PLN (Persero) UP3 Tasikmalaya	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+468	SPKLU PLN ULP TASIKMALAYA KOTA	Tasikmalaya	-7.327229234	108.2226296	Jl. Mayor Utarya No.28, RW.01, Empangsari, Kec. Tawang, Kab. Tasikmalaya, Jawa Barat 46113	CCS (Type 2)	25	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+469	SPKLU PLN ULP Tebing Tinggi	Tebing Tinggi	3.33498	99.16298	Sri Padang, Kec. Rambutan, Kota Tebing Tinggi, Sumatera Utara 20998	CCS (Type 2)	25	CHAdeMO	25	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+470	Rest Area KM 275A Tol Trans Jawa	Tegal Regency	-6.932410142	109.1093448	Rest Area KM 275A, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0	1/12/2025 4:30
+471	Rest Area KM 294B Tol Pejagan - Pemalang	Tegal Regency	-6.937191743	109.2729544	Rest Area KM 294B 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0	1/12/2025 4:30
+472	Rest area KM 282B Tegal	Tegal Regency	-6.943099	109.17311	Rest area KM 282B Tegal, 	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50		0		0		0	1/12/2025 4:30
+473	SPKLU PLN Polres KUTIM 	Teluk Lingga	0.5187635	117.6043892	Teluk Lingga, East Kutai Regency, East Kalimantan	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+474	SPKLU PLN ULP TEMBILAHAN	Tembilahan	-0.319994961	103.1528481	HILIR Jl. Gn. Daek, Tembilahan Kota, Kec. Tembilahan, Kabupaten Indragiri Hilir, Riau 29214	CCS (Type 2)	30		0		0		0		0		0		0	1/12/2025 4:30
+475	SPKLU Rest Area KM 65 B Pekanbaru-Dumai	Tengganau	1.111368575	101.2581864	Jl. Tol Pekanbaru - Dumai, Tengganau, Kec. Pinggir, Kabupaten Bengkalis, Riau 28784	CCS (Type 2)	50	CHAdeMO	50	Type 2 (Tethered Connector) 	22		0		0		0		0	1/12/2025 4:30
+476	SPKLU PLN UP3 TERNATE	Ternate	0.781597	127.3856347	Jl. Ahmad Yani No.40, Kota Baru, Kec. Ternate Tengah, Kota Ternate, Maluku Utara 97721	CHAdeMO	60		0		0		0		0		0		0	1/12/2025 4:30
+477	SPKLU PLN ULP SOASIU TIDORE	Tidore	0.6678758	127.4476833	Tomagoba, Tidore, Tidore Kepulauan City, North Maluku	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+478	SPKLU PLN ULP TOMOHON	Tomohon	1.340546	124.83544	Jl. Raya Tomohon Jl. Kakaskasen, Talete Dua, Kec. Tomohon Tengah, Kota Tomohon, Sulawesi Utara	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+479	Wuling Kumala Tomohon	Tomohon	13405841	1248352252	Jl. Raya Tomohon, Kakaskasen, Kec. Tomohon Utara, Kota Tomohon, Sulawesi Utara 95415	Type 2 (Tethered Connector) 	7		0		0		0		0		0		0	1/12/2025 4:30
+480	SPKLU PLN ULP Tomoni 	Tomoni	-2.5009005	120.8027448	Jl. Mekar No.05, Balai Kembang, Kec. Mangkutana, Kabupaten Luwu Timur, Sulawesi Selatan 92973	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+481	SPKLU PLN  KP Topoyo	Topoyo 	-2.0635465	119.2931353	Topoyo, Mamuju Regency, West Sulawesi 91563	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+482	Rest Area KM 172B Trans Sumatra	Tulang Bawang	-4.6056099	105.1818725	Rest Area KM 172B Tol Trans Sumatra, 	Type 2 (Tethered Connector) 	22	CCS (Type 2)	50	CHAdeMO	50		0		0		0		0	1/12/2025 4:30
+483	Rest Area KM 208A	Tulang Bawang Regency 	-4.296766726	105.1601395	Rest Area KM 208A Tol Terpeka	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+484	SPKLU PLN Rest Area Tlogo KM 445 B	Tuntang	-7.258667882	110.4627277	Semarang - Solo Toll Rd, Boak, Delik, Tuntang, Semarang Regency, Central Java 50773	CCS (Type 2)	120	Type 2 (Tethered Connector) 	22		0		0		0		0		0	1/12/2025 4:30
+485	Alun Alun Peliatan Ubud	Ubud	-8.517803	115.2689011	Alun Alun Peliatan Ubud	CCS (Type 2)	100		0		0		0		0		0		0	1/12/2025 4:30
+486	Rest Area KM 215B Tol Terpeka	West Tulang Bawang Regency, 	-4.248869211	105.138668	Rest Area KM 215B Tol Terpeka	Type 2 (Tethered Connector) 	22		0		0		0		0		0		0	1/12/2025 4:30
+487	Hotel Tentrem Yogayakarta	Yogyakarta	-7.773581419	110.368456	Jl. P. Mangkubumi No.72A, Cokrodiningratan, Kec. Jetis, 	CCS (Type 2)	50		0		0		0		0		0		0	1/12/2025 4:30
